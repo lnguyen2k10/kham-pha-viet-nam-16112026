@@ -258,5 +258,135 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "caption": "Ba Den Mountain"
+  },
+  {
+    "slug": "ha-noi",
+    "title": "File:Hoan Kiem Lake night panorama.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hoan_Kiem_Lake_night_panorama.jpg",
+    "author": "Grenouille vert",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "ha-noi-discovery.jpg",
+    "caption": "Hồ Hoàn Kiếm về đêm, Hà Nội"
+  },
+  {
+    "slug": "dien-bien",
+    "title": "File:Mường Thanh Valley.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:M%C6%B0%E1%BB%9Dng_Thanh_Valley.jpg",
+    "author": "[Tycho]  talk , http://shansov.net",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "dien-bien-discovery.jpg",
+    "caption": "Thung lũng Mường Thanh, Điện Biên"
+  },
+  {
+    "slug": "lai-chau",
+    "title": "File:Đèo Ô Quy Hồ 2.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:%C4%90%C3%A8o_%C3%94_Quy_H%E1%BB%93_2.JPG",
+    "author": "Liftold (thảo luận)",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "lai-chau-discovery.jpg",
+    "caption": "Đèo Ô Quy Hồ, Lai Châu"
+  },
+  {
+    "slug": "lao-cai",
+    "title": "File:Terraces in Che Cu Nha commune, Mu Cang Chai (Unsplash).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Terraces_in_Che_Cu_Nha_commune,_Mu_Cang_Chai_(Unsplash).jpg",
+    "author": "Doan Tuan danny_pham93",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "lao-cai-discovery.jpg",
+    "caption": "Ruộng bậc thang Mù Cang Chải, Lào Cai"
+  },
+  {
+    "slug": "phu-tho",
+    "title": "File:Phong cảnh Tam Đảo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Phong_c%E1%BA%A3nh_Tam_%C4%90%E1%BA%A3o.jpg",
+    "author": "Bùi Thụy Đào Nguyên",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "phu-tho-discovery.jpg",
+    "caption": "Thị trấn Tam Đảo trong mây, Phú Thọ"
+  },
+  {
+    "slug": "thanh-hoa",
+    "title": "File:Pù Luông - 01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:P%C3%B9_Lu%C3%B4ng_-_01.jpg",
+    "author": "Benjamin Smith",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "thanh-hoa-discovery.jpg",
+    "caption": "Bản làng giữa thung lũng Pù Luông, Thanh Hóa"
+  },
+  {
+    "slug": "nghe-an",
+    "title": "File:Cualovedem.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cualovedem.jpg",
+    "author": "Lê Nguyễn Nhật Long",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "nghe-an-discovery.jpg",
+    "caption": "Biển Cửa Lò về đêm, Nghệ An"
+  },
+  {
+    "slug": "lam-dong",
+    "title": "File:White Sand Dunes (14614693572).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:White_Sand_Dunes_(14614693572).jpg",
+    "author": "Erwin Verbruggen from Amsterdam, The Netherlands",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "file": "lam-dong-discovery.jpg",
+    "caption": "Đồi cát Mũi Né, Lâm Đồng"
+  },
+  {
+    "slug": "vinh-long",
+    "title": "File:Brick making village in Mang Thit, Vinh Long, Vietnam.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Brick_making_village_in_Mang_Thit,_Vinh_Long,_Vietnam.jpg",
+    "author": "Trantuonglam",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "vinh-long-discovery.jpg",
+    "caption": "Làng gạch Mang Thít bên sông, Vĩnh Long"
+  },
+  {
+    "slug": "hung-yen",
+    "title": "File:Chua Keo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Chua_Keo.jpg",
+    "author": "Daaé",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "hung-yen-discovery.jpg",
+    "caption": "Chùa Keo, Hưng Yên"
+  },
+  {
+    "slug": "an-giang",
+    "title": "File:Phu Quoc beach 01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Phu_Quoc_beach_01.jpg",
+    "author": "Elmschrat",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "an-giang-discovery.jpg",
+    "caption": "Biển Phú Quốc, An Giang"
+  },
+  {
+    "slug": "khanh-hoa",
+    "title": "File:Arriving in Nha Trang - Vietnam.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Arriving_in_Nha_Trang_-_Vietnam.jpg",
+    "author": "bvi4092",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "file": "khanh-hoa-discovery.jpg",
+    "caption": "Vịnh Nha Trang, Khánh Hòa"
+  },
+  {
+    "slug": "tay-ninh",
+    "title": "File:Cáp treo núi Bà Đen.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:C%C3%A1p_treo_n%C3%BAi_B%C3%A0_%C4%90en.JPG",
+    "author": "Nguyễn Thanh Quang 18:18, 16 December 2007 (UTC)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "tay-ninh-discovery.jpg",
+    "caption": "Cáp treo lên núi Bà Đen, Tây Ninh"
   }
 ]

@@ -17,10 +17,10 @@ export default function DiscoveryHero({businessRecords=businesses}:{businessReco
     <div className="dream-scene"><Image src="/images/vietnam-1.jpg" alt="Vịnh Hạ Long, Quảng Ninh" fill priority sizes="100vw" quality={85} /></div>
     <div className="dream-atmosphere" />
     <div className="dream-copy">
-      <span className="dream-intro">Khám phá</span>
-      <h1><span>Tinh hoa</span><span>mọi miền</span><em>Việt Nam</em></h1>
+      <span className="dream-intro">KHÁM PHÁ VIỆT NAM</span>
+      <h1><span>Đi để thấy.</span><em>Ở lại để yêu.</em></h1>
       <p>Tìm một miền đất để khám phá.<br />Gặp những doanh nghiệp làm nên bản sắc địa phương.</p>
-      <Link className="dream-start" href="#bat-dau"><span><Navigation size={18} /></span>Bắt đầu khám phá <ArrowRight size={22} /></Link>
+      <Link className="dream-start" href="/dia-phuong"><span><Navigation size={18} /></span>Khám phá 34 tỉnh thành <ArrowRight size={22} /></Link>
       <Link className="hero-business-link" href="/ban-do">Mở bản đồ doanh nghiệp <ArrowRight size={17} /></Link>
     </div>
     <aside className="explorer-panel" aria-labelledby="explorer-heading">

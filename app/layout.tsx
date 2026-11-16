@@ -1,3 +1,3 @@
-import type{Metadata}from'next';import{Header,Footer}from'@/components/Shell';import'./globals.css';
+import type{Metadata}from'next';import{Header,Footer}from'@/components/Shell';import'./globals.css';import'./editorial.css';
 export const metadata:Metadata={title:{default:'Khám phá Việt Nam — Mỗi miền đất, một câu chuyện',template:'%s | Khám phá Việt Nam'},description:'Khám phá điểm đến, câu chuyện địa phương và kết nối doanh nghiệp Việt. Đăng trang doanh nghiệp miễn phí và kết nối khách hàng theo địa phương.',robots:{index:true,follow:true}};
-export default function Layout({children}:{children:React.ReactNode}){return <html lang="vi"><body><Header/>{children}<Footer/></body></html>}
+export default function Layout({children}:{children:React.ReactNode}){return <html lang="vi"><head><link rel="preload" href="/fonts/Manrope.ttf" as="font" type="font/ttf" crossOrigin="anonymous"/></head><body><Header/>{children}<Footer/></body></html>}

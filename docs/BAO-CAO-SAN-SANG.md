@@ -19,3 +19,11 @@ Có 34 trang tỉnh/thành với giới thiệu riêng, ba điểm khám phá, �
 `BLOB_READ_WRITE_TOKEN` được Vercel cấp cho dự án và chỉ dùng phía máy chủ. Không đưa token vào Git hoặc biến NEXT_PUBLIC. API sức khỏe kiểm tra thực tế kết nối kho dữ liệu. Mỗi lần thay đổi giao diện đi qua GitHub và Vercel; hồ sơ mới không yêu cầu rebuild. Nội dung doanh nghiệp do chủ trang tự khai báo, không tự gắn nhãn đã xác minh.
 
 Hiện mở dùng miễn phí, chưa tích hợp thu tiền. Khi phát triển thêm, ưu tiên sao lưu định kỳ và quyền quản trị nhiều thiết bị; không đặt các chức năng này làm điều kiện để người dùng thử đăng trang hiện nay.
+
+## Hoàn thiện tỉnh thành và hệ thiết kế — 16/11/2026
+
+- Mục Tỉnh thành trên điều hướng dẫn đến danh mục đủ 34 địa phương, chia ba miền (15/11/8), có tìm kiếm, danh sách tên xem nhanh và liên kết tới từng trang. Trang chủ gọi đúng nhóm sáu gợi ý là Nổi bật; chọn miền hiển thị toàn bộ địa phương thuộc miền đó.
+- Tên tỉnh trước sắp xếp vẫn tìm được về trang hiện nay; không dựng thêm tỉnh hành chính đã sáp nhập. Dữ liệu tên cũ phục vụ tìm kiếm, không dùng như danh sách đơn vị hành chính hiện hành.
+- Thay 13 ảnh đại diện bằng ảnh phong cảnh/di sản thật đã xem và kiểm tra nguồn, tác giả, giấy phép. Ảnh mới có chú thích địa điểm và ghi công trên trang Nguồn ảnh.
+- Hệ thiết kế dùng font Manrope biến thiên có tiếng Việt, lưu tại dự án kèm giấy phép OFL, không phụ thuộc tải Google Fonts. Nền trắng/ngà, xanh lá và màu đất ấm; giảm gradient, thống nhất tiêu đề, nút, thẻ ảnh, khoảng cách và trang con.
+- Tham khảo nhịp ảnh và cấu trúc của Vietnam.travel và Visit Norway; không sao chép nội dung, thương hiệu hoặc mã của các trang tham khảo.

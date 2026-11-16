@@ -25,7 +25,7 @@
       "Cốm"
     ],
     "travelTip": "Dành buổi sáng cho phố và hồ, một ngày riêng cho làng nghề.",
-    "image": "/images/ha-noi.jpg",
+    "image": "/images/ha-noi-discovery.jpg",
     "updatedAt": "2026-11-16",
     "kind": "Thành phố",
     "sources": [
@@ -38,7 +38,7 @@
         "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
       }
     ],
-    "imageCaption": "Hà Nội"
+    "imageCaption": "Hồ Hoàn Kiếm về đêm, Hà Nội"
   },
   {
     "slug": "cao-bang",
@@ -111,7 +111,7 @@
       "Pa pỉnh tộp"
     ],
     "travelTip": "Dành đủ thời gian cho bảo tàng và di tích; có thể tìm hiểu thêm văn hóa bản làng trong khu vực.",
-    "image": "/images/dien-bien.jpg",
+    "image": "/images/dien-bien-discovery.jpg",
     "updatedAt": "2026-11-16",
     "kind": "Tỉnh",
     "sources": [
@@ -128,7 +128,7 @@
         "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
       }
     ],
-    "imageCaption": "Điện Biên"
+    "imageCaption": "Thung lũng Mường Thanh, Điện Biên"
   },
   {
     "slug": "lai-chau",
@@ -156,7 +156,7 @@
       "Rau vùng cao"
     ],
     "travelTip": "Chọn tuyến đường phù hợp thời tiết; trao đổi trước với nơi lưu trú và người hướng dẫn địa phương.",
-    "image": "/images/lai-chau.jpg",
+    "image": "/images/lai-chau-discovery.jpg",
     "updatedAt": "2026-11-16",
     "kind": "Tỉnh",
     "sources": [
@@ -173,7 +173,7 @@
         "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
       }
     ],
-    "imageCaption": "Lai Châu"
+    "imageCaption": "Đèo Ô Quy Hồ, Lai Châu"
   },
   {
     "slug": "lang-son",
@@ -291,7 +291,7 @@
       "Gạo và nếp vùng cao"
     ],
     "travelTip": "Chọn tuyến Sa Pa – Bắc Hà hoặc Mù Cang Chải – Tú Lệ; không mặc định các điểm đều gần nhau.",
-    "image": "/images/sa-pa.jpg",
+    "image": "/images/lao-cai-discovery.jpg",
     "updatedAt": "2026-11-16",
     "kind": "Tỉnh",
     "sources": [
@@ -304,7 +304,7 @@
         "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
       }
     ],
-    "imageCaption": "Lào Cai"
+    "imageCaption": "Ruộng bậc thang Mù Cang Chải, Lào Cai"
   },
   {
     "slug": "tuyen-quang",
@@ -422,7 +422,7 @@
       "Cơm lam"
     ],
     "travelTip": "Chọn một cụm Đền Hùng, Tam Đảo hoặc Mai Châu cho từng chặng; các khu vực không nằm sát nhau.",
-    "image": "/images/phu-tho.jpg",
+    "image": "/images/phu-tho-discovery.jpg",
     "updatedAt": "2026-11-16",
     "kind": "Tỉnh",
     "sources": [
@@ -435,7 +435,7 @@
         "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
       }
     ],
-    "imageCaption": "Phú Thọ"
+    "imageCaption": "Thị trấn Tam Đảo trong mây, Phú Thọ"
   },
   {
     "slug": "bac-ninh",
@@ -594,7 +594,7 @@
       "Bánh cáy"
     ],
     "travelTip": "Nhóm các điểm theo khu vực để giảm thời gian di chuyển giữa phía Hưng Yên và phía Thái Bình.",
-    "image": "/images/hung-yen.jpg",
+    "image": "/images/hung-yen-discovery.jpg",
     "updatedAt": "2026-11-16",
     "kind": "Tỉnh",
     "sources": [
@@ -611,7 +611,7 @@
         "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
       }
     ],
-    "imageCaption": "Hưng Yên"
+    "imageCaption": "Chùa Keo, Hưng Yên"
   },
   {
     "slug": "ninh-binh",
@@ -680,7 +680,7 @@
       "Bánh gai Tứ Trụ"
     ],
     "travelTip": "Có thể chọn chuyến nghỉ biển hoặc hành trình di sản – miền núi; kiểm tra điều kiện đường khi đi Pù Luông.",
-    "image": "/images/thanh-hoa.jpg",
+    "image": "/images/thanh-hoa-discovery.jpg",
     "updatedAt": "2026-11-16",
     "kind": "Tỉnh",
     "sources": [
@@ -693,7 +693,7 @@
         "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
       }
     ],
-    "imageCaption": "Thanh Hóa"
+    "imageCaption": "Bản làng giữa thung lũng Pù Luông, Thanh Hóa"
   },
   {
     "slug": "nghe-an",
@@ -721,7 +721,7 @@
       "Nhút Thanh Chương"
     ],
     "travelTip": "Tuyến Kim Liên – Cửa Lò và tuyến Pù Mát có khoảng cách đáng kể, nên bố trí thành các chặng.",
-    "image": "/images/nghe-an.jpg",
+    "image": "/images/nghe-an-discovery.jpg",
     "updatedAt": "2026-11-16",
     "kind": "Tỉnh",
     "sources": [
@@ -738,7 +738,7 @@
         "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
       }
     ],
-    "imageCaption": "Nghệ An"
+    "imageCaption": "Biển Cửa Lò về đêm, Nghệ An"
   },
   {
     "slug": "ha-tinh",
@@ -1073,7 +1073,7 @@
       "Bánh căn"
     ],
     "travelTip": "Chọn một cụm lưu trú phù hợp lộ trình; theo dõi điều kiện biển trước hoạt động đường thủy.",
-    "image": "/images/khanh-hoa.jpg",
+    "image": "/images/khanh-hoa-discovery.jpg",
     "updatedAt": "2026-11-16",
     "kind": "Tỉnh",
     "sources": [
@@ -1090,7 +1090,7 @@
         "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
       }
     ],
-    "imageCaption": "Khánh Hòa"
+    "imageCaption": "Vịnh Nha Trang, Khánh Hòa"
   },
   {
     "slug": "lam-dong",
@@ -1118,7 +1118,7 @@
       "Nước mắm Phan Thiết"
     ],
     "travelTip": "Chuẩn bị trang phục cho cả vùng cao và biển; không đánh giá thời tiết toàn địa phương theo một điểm đến.",
-    "image": "/images/lam-dong.jpg",
+    "image": "/images/lam-dong-discovery.jpg",
     "updatedAt": "2026-11-16",
     "kind": "Tỉnh",
     "sources": [
@@ -1135,7 +1135,7 @@
         "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
       }
     ],
-    "imageCaption": "Lâm Đồng"
+    "imageCaption": "Đồi cát Mũi Né, Lâm Đồng"
   },
   {
     "slug": "ho-chi-minh",
@@ -1253,7 +1253,7 @@
       "Bò tơ"
     ],
     "travelTip": "Tìm hiểu quy định tham quan không gian tín ngưỡng; chỉ đi theo các tuyến hoạt động được cho phép.",
-    "image": "/images/tay-ninh.jpg",
+    "image": "/images/tay-ninh-discovery.jpg",
     "updatedAt": "2026-11-16",
     "kind": "Tỉnh",
     "sources": [
@@ -1270,7 +1270,7 @@
         "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
       }
     ],
-    "imageCaption": "Tây Ninh"
+    "imageCaption": "Cáp treo lên núi Bà Đen, Tây Ninh"
   },
   {
     "slug": "dong-thap",
@@ -1343,7 +1343,7 @@
       "Trái cây miệt vườn"
     ],
     "travelTip": "Chọn cơ sở và phương tiện đường thủy có thông tin rõ ràng; xác nhận tuyến và chi phí trước khi đi.",
-    "image": "/images/vinh-long.jpg",
+    "image": "/images/vinh-long-discovery.jpg",
     "updatedAt": "2026-11-16",
     "kind": "Tỉnh",
     "sources": [
@@ -1356,7 +1356,7 @@
         "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
       }
     ],
-    "imageCaption": "Vĩnh Long"
+    "imageCaption": "Làng gạch Mang Thít bên sông, Vĩnh Long"
   },
   {
     "slug": "can-tho",
@@ -1425,7 +1425,7 @@
       "Nước mắm Phú Quốc"
     ],
     "travelTip": "Tách tuyến đồng bằng và tuyến đảo; kiểm tra phương tiện, lịch tàu và thời tiết trước khi khởi hành.",
-    "image": "/images/an-giang.jpg",
+    "image": "/images/an-giang-discovery.jpg",
     "updatedAt": "2026-11-16",
     "kind": "Tỉnh",
     "sources": [
@@ -1442,7 +1442,7 @@
         "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
       }
     ],
-    "imageCaption": "An Giang"
+    "imageCaption": "Biển Phú Quốc, An Giang"
   },
   {
     "slug": "ca-mau",
