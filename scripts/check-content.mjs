@@ -6,7 +6,7 @@ const source = fs.readFileSync(new URL('../lib/data.ts', import.meta.url), 'utf8
 const compiled = ts.transpileModule(source, { compilerOptions: { module: ts.ModuleKind.CommonJS, esModuleInterop: true } }).outputText;
 const module = { exports: {} };
 // Compile only our checked-in, trusted data module. Never run uploaded/user content.
-new Function('exports', 'module', 'require', compiled)(module.exports, module, createRequire(import.meta.url));
+new Function('exports', 'module', 'require', compiled)(module.exports, module, createRequire(new URL('../lib/data.ts', import.meta.url)));
 const { provinces, communes, businesses, places } = module.exports;
 for (const [name, records] of Object.entries({ provinces, businesses, places })) {
   const slugs = records.map(r => r.slug);

@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "slug": "fit-club-222-ha-noi",
+    "name": "Fit Club 222",
+    "province": "ha-noi",
+    "commune": "",
+    "category": "Dịch vụ",
+    "image": "/images/fitclub/daily-training.jpg",
+    "logo": "/images/fitclub/fitclub-logo.jpg",
+    "gallery": [
+      "/images/fitclub/members-together.jpg",
+      "/images/fitclub/members-standing.jpg",
+      "/images/fitclub/entrance.jpg",
+      "/images/fitclub/community-event.jpg"
+    ],
+    "tagline": "Không gian tập luyện dành cho nữ tại Tây Nam Linh Đàm",
+    "description": "Fit Club 222 là không gian tập luyện dành cho nữ tại Tòa D2CT2, Tây Nam Linh Đàm, Hà Nội. Câu lạc bộ hướng đến những người muốn giảm mỡ, tăng cơ và chăm sóc vóc dáng thông qua việc duy trì vận động. Hình ảnh hoạt động cho thấy các buổi tập nhóm, bài tập trên thảm và với dụng cụ, cùng những buổi gặp gỡ của cộng đồng thành viên. Bạn có thể liên hệ trực tiếp để được tư vấn chương trình phù hợp với mục tiêu, thể trạng và thời gian của mình.",
+    "services": [
+      "Tư vấn chương trình giảm mỡ, tăng cơ và vóc dáng",
+      "Tập luyện dành cho nữ",
+      "Hoạt động tập nhóm với thảm và dụng cụ",
+      "Kết nối cộng đồng cùng duy trì vận động"
+    ],
+    "address": "Tòa D2CT2, Tây Nam Linh Đàm, Hà Nội",
+    "isSample": false,
+    "phone": "0386485470",
+    "zalo": "0386485470",
+    "website": null,
+    "imageKind": "business",
+    "submissionType": "editorial"
+  }
+]

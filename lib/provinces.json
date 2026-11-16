@@ -1,0 +1,1492 @@
+[
+  {
+    "slug": "ha-noi",
+    "name": "Hà Nội",
+    "region": "Miền Bắc",
+    "tagline": "Một nhịp phố, nghìn năm văn hiến",
+    "description": "Hà Nội cuốn hút bằng những lớp đời sống đan xen: mặt hồ giữa phố, mái ngói trong khu phố cũ, sân đình làng nghề và nhịp chợ buổi sớm. Đi bộ quanh Hoàn Kiếm, ghé Văn Miếu rồi dành một ngày cho làng gốm Bát Tràng là cách cảm nhận thủ đô từ di sản đến sinh hoạt thường ngày.",
+    "highlights": [
+      {
+        "name": "Hồ Hoàn Kiếm",
+        "description": "Khoảng xanh và không gian đi bộ ở trung tâm thủ đô"
+      },
+      {
+        "name": "Văn Miếu – Quốc Tử Giám",
+        "description": "Quần thể di tích gắn với truyền thống học tập và khoa cử"
+      },
+      {
+        "name": "Bát Tràng",
+        "description": "Làng gốm bên sông Hồng với các xưởng và trải nghiệm thủ công"
+      }
+    ],
+    "foods": [
+      "Phở Hà Nội",
+      "Bún chả",
+      "Cốm"
+    ],
+    "travelTip": "Dành buổi sáng cho phố và hồ, một ngày riêng cho làng nghề.",
+    "image": "/images/ha-noi.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Thành phố",
+    "sources": [
+      {
+        "label": "Cổng thông tin Hà Nội",
+        "url": "https://hanoi.gov.vn/"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Hà Nội"
+  },
+  {
+    "slug": "cao-bang",
+    "name": "Cao Bằng",
+    "region": "Miền Bắc",
+    "tagline": "Miền đá núi, dòng nước biếc",
+    "description": "Cao Bằng mở ra cảnh quan núi đá vôi, những thung lũng và dòng sông miền biên viễn. Bản Giốc là điểm hẹn của thác nước và núi rừng; Pác Bó đưa hành trình trở về một địa chỉ lịch sử. Những bản làng và món ăn địa phương khiến chuyến đi có chiều sâu hơn những khung hình phong cảnh.",
+    "highlights": [
+      {
+        "name": "Thác Bản Giốc",
+        "description": "Dòng thác ở khu vực biên giới, giữa cảnh quan núi đá"
+      },
+      {
+        "name": "Khu di tích Pác Bó",
+        "description": "Không gian lịch sử gắn với hoạt động cách mạng của Chủ tịch Hồ Chí Minh"
+      },
+      {
+        "name": "Động Ngườm Ngao",
+        "description": "Hang động đá vôi gần khu vực Bản Giốc"
+      }
+    ],
+    "foods": [
+      "Bánh cuốn Cao Bằng",
+      "Hạt dẻ Trùng Khánh",
+      "Lạp sườn"
+    ],
+    "travelTip": "Chọn tuyến Cao Bằng – Pác Bó hoặc Cao Bằng – Bản Giốc thay vì dồn quá nhiều điểm trong một ngày.",
+    "image": "/images/cao-bang.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Cao Bằng",
+        "url": "https://caobang.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://ldld.caobang.gov.vn/vi/news/tin-hoat-dong/dai-hoi-thanh-lap-cong-doan-co-so-ban-quan-ly-khu-du-lich-thac-ban-gioc-3297.html"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Cao Bằng"
+  },
+  {
+    "slug": "dien-bien",
+    "name": "Điện Biên",
+    "region": "Miền Bắc",
+    "tagline": "Về thung lũng của những trang sử",
+    "description": "Điện Biên gợi nhớ những địa danh của chiến dịch Điện Biên Phủ, đồng thời là miền đất của thung lũng Mường Thanh và văn hóa các cộng đồng Tây Bắc. Những điểm di tích trong lòng thành phố và Sở chỉ huy chiến dịch tại Mường Phăng tạo nên hành trình tìm hiểu lịch sử giàu ý nghĩa.",
+    "highlights": [
+      {
+        "name": "Đồi A1",
+        "description": "Di tích của chiến trường Điện Biên Phủ"
+      },
+      {
+        "name": "Bảo tàng Chiến thắng Điện Biên Phủ",
+        "description": "Không gian tìm hiểu chiến dịch và câu chuyện lịch sử"
+      },
+      {
+        "name": "Mường Phăng",
+        "description": "Khu di tích Sở chỉ huy chiến dịch trong không gian núi rừng"
+      }
+    ],
+    "foods": [
+      "Xôi nếp nương",
+      "Chẩm chéo",
+      "Pa pỉnh tộp"
+    ],
+    "travelTip": "Dành đủ thời gian cho bảo tàng và di tích; có thể tìm hiểu thêm văn hóa bản làng trong khu vực.",
+    "image": "/images/dien-bien.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Điện Biên",
+        "url": "https://dienbien.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://bqldt.svhttdl.dienbien.gov.vn/portal/pages/2022-1-17/Di-tich-So-Chi-huy-Chien-dich-Dien-Bien-Phu-o-Muonau6ymd9kbroc.aspx"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Điện Biên"
+  },
+  {
+    "slug": "lai-chau",
+    "name": "Lai Châu",
+    "region": "Miền Bắc",
+    "tagline": "Đường lên miền mây núi",
+    "description": "Lai Châu có sức hút của những cung đường núi, bản làng và đời sống văn hóa vùng cao. Bản Sin Suối Hồ là một điểm đến cộng đồng để tìm hiểu không gian sinh hoạt của người Mông. Tam Đường và vùng cảnh quan quanh đèo Ô Quy Hồ gợi mở hành trình ngắm núi, đi chậm và gặp gỡ người địa phương.",
+    "highlights": [
+      {
+        "name": "Sin Suối Hồ",
+        "description": "Bản du lịch cộng đồng với không gian văn hóa người Mông"
+      },
+      {
+        "name": "Tam Đường",
+        "description": "Vùng bản làng và cảnh quan núi của Lai Châu"
+      },
+      {
+        "name": "Khu vực Ô Quy Hồ",
+        "description": "Cung đường nối Lai Châu và Lào Cai, nổi bật với cảnh quan núi"
+      }
+    ],
+    "foods": [
+      "Xôi tím",
+      "Thịt gác bếp",
+      "Rau vùng cao"
+    ],
+    "travelTip": "Chọn tuyến đường phù hợp thời tiết; trao đổi trước với nơi lưu trú và người hướng dẫn địa phương.",
+    "image": "/images/lai-chau.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Lai Châu",
+        "url": "https://laichau.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://laichau.gov.vn/du-khach/trai-nghiem-du-lich-sin-suoi-ho.html"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Lai Châu"
+  },
+  {
+    "slug": "lang-son",
+    "name": "Lạng Sơn",
+    "region": "Miền Bắc",
+    "tagline": "Một miền biên ải, nhiều sắc văn hóa",
+    "description": "Lạng Sơn có những lớp cảnh quan khác nhau, từ thung lũng Bắc Sơn đến vùng núi Mẫu Sơn và không gian đô thị biên giới. Di tích, chợ và bản làng tạo nên hành trình vừa tìm hiểu lịch sử vừa cảm nhận đời sống. Một bữa ăn xứ Lạng là điểm dừng đáng nhớ giữa những cung đường.",
+    "highlights": [
+      {
+        "name": "Thung lũng Bắc Sơn",
+        "description": "Cảnh quan ruộng đồng giữa núi đá và những bản làng"
+      },
+      {
+        "name": "Mẫu Sơn",
+        "description": "Vùng núi với khí hậu và văn hóa địa phương đặc trưng"
+      },
+      {
+        "name": "Động Tam Thanh",
+        "description": "Điểm tham quan gắn với cảnh quan đá vôi và văn hóa xứ Lạng"
+      }
+    ],
+    "foods": [
+      "Vịt quay Lạng Sơn",
+      "Phở chua",
+      "Bánh áp chao"
+    ],
+    "travelTip": "Có thể kết hợp một ngày trong khu vực đô thị với một hành trình riêng đến Bắc Sơn hoặc Mẫu Sơn.",
+    "image": "/images/lang-son.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Lạng Sơn",
+        "url": "https://langson.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://langson.gov.vn/thong-tin-chi-dao-dieu-hanh/phe-duyet-de-an-phat-trien-du-lich-sinh-thai-nghi-duong-giai-tri-trong-khu-rung-dac-dung-mau-son-giai-doan-2023-2030.html"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Lạng Sơn"
+  },
+  {
+    "slug": "son-la",
+    "name": "Sơn La",
+    "region": "Miền Bắc",
+    "tagline": "Cao nguyên xanh và những tầng mây",
+    "description": "Sơn La đưa người ghé thăm qua đồi chè Mộc Châu, các bản làng và những cung đường lên Tà Xùa. Nhịp sống nông nghiệp trên cao nguyên cùng ẩm thực Tây Bắc tạo nên nét riêng của vùng đất. Hãy chọn một khu vực cho mỗi chặng để có thời gian quan sát và trò chuyện với người địa phương.",
+    "highlights": [
+      {
+        "name": "Mộc Châu",
+        "description": "Cao nguyên với đồi chè, thác nước và hoạt động du lịch cộng đồng"
+      },
+      {
+        "name": "Tà Xùa",
+        "description": "Vùng núi và những cung đường ngắm cảnh"
+      },
+      {
+        "name": "Thác Dải Yếm",
+        "description": "Thác nước thuộc khu vực Mộc Châu"
+      }
+    ],
+    "foods": [
+      "Bê chao Mộc Châu",
+      "Sữa và sản phẩm từ sữa",
+      "Cá nướng Tây Bắc"
+    ],
+    "travelTip": "Mộc Châu và Tà Xùa phù hợp những chặng riêng; kiểm tra đường và thời tiết trước khi lên vùng cao.",
+    "image": "/images/son-la.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Sơn La",
+        "url": "https://sonla.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://data.sonla.gov.vn/iframe/detail_data/du-lieu-khu-du-lich-diem-du-lich"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Sơn La"
+  },
+  {
+    "slug": "lao-cai",
+    "name": "Lào Cai",
+    "region": "Miền Bắc",
+    "tagline": "Từ ruộng bậc thang đến miền sương núi",
+    "description": "Lào Cai hiện kết nối những điểm đến quen thuộc của Sa Pa, Bắc Hà với vùng ruộng bậc thang Mù Cang Chải và hồ Thác Bà. Những dãy núi, thung lũng và không gian văn hóa vùng cao mở ra nhiều lựa chọn từ nghỉ ngơi đến trải nghiệm cộng đồng. Mỗi khu vực có nhịp sống và mùa cảnh quan riêng.",
+    "highlights": [
+      {
+        "name": "Sa Pa",
+        "description": "Đô thị núi và những thung lũng bản làng"
+      },
+      {
+        "name": "Mù Cang Chải",
+        "description": "Vùng ruộng bậc thang nổi tiếng ở Tây Bắc"
+      },
+      {
+        "name": "Hồ Thác Bà",
+        "description": "Cảnh quan mặt nước và các đảo trong lòng hồ"
+      }
+    ],
+    "foods": [
+      "Thắng cố",
+      "Cốm Tú Lệ",
+      "Gạo và nếp vùng cao"
+    ],
+    "travelTip": "Chọn tuyến Sa Pa – Bắc Hà hoặc Mù Cang Chải – Tú Lệ; không mặc định các điểm đều gần nhau.",
+    "image": "/images/sa-pa.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Lào Cai",
+        "url": "https://laocai.gov.vn/"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Lào Cai"
+  },
+  {
+    "slug": "tuyen-quang",
+    "name": "Tuyên Quang",
+    "region": "Miền Bắc",
+    "tagline": "Một hành trình từ hồ xanh đến cao nguyên đá",
+    "description": "Tuyên Quang sau sắp xếp địa giới kết nối không gian di tích Tân Trào, vùng hồ Na Hang với cao nguyên đá Đồng Văn và những cung đường Hà Giang. Đây là miền đất để tìm hiểu cả lịch sử, địa chất và đời sống cộng đồng. Những chặng đường dài xứng đáng được dành đủ thời gian.",
+    "highlights": [
+      {
+        "name": "Tân Trào",
+        "description": "Khu di tích lịch sử trong không gian cây xanh và bản làng"
+      },
+      {
+        "name": "Na Hang",
+        "description": "Vùng hồ, núi và trải nghiệm du lịch cộng đồng"
+      },
+      {
+        "name": "Cao nguyên đá Đồng Văn",
+        "description": "Không gian núi đá và văn hóa vùng cao thuộc khu vực Hà Giang"
+      }
+    ],
+    "foods": [
+      "Cam sành Hà Giang",
+      "Chè Shan tuyết",
+      "Thắng dền"
+    ],
+    "travelTip": "Tách tuyến Tân Trào – Na Hang và tuyến cao nguyên đá thành các chặng phù hợp quỹ thời gian.",
+    "image": "/images/tuyen-quang.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Tuyên Quang",
+        "url": "https://tuyenquang.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://nahang.tuyenquang.gov.vn/vi/tin-bai/ubnd-xa-na-hang-tham-gia-hoi-thao-ky-ket-hop-tac-phat-trien-du-lich-lien-vung?id=225686&type=NEWS"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Tuyên Quang"
+  },
+  {
+    "slug": "thai-nguyen",
+    "name": "Thái Nguyên",
+    "region": "Miền Bắc",
+    "tagline": "Chén trà xanh, mặt hồ yên",
+    "description": "Thái Nguyên nối vùng chè Tân Cương và hồ Núi Cốc với cảnh quan hồ Ba Bể sau sắp xếp địa giới. Hành trình có thể bắt đầu bằng một buổi tìm hiểu cách làm trà rồi tiếp tục với không gian mặt nước, rừng và bản làng. Những trải nghiệm gắn với người dân giúp chuyến đi gần gũi hơn.",
+    "highlights": [
+      {
+        "name": "Vùng chè Tân Cương",
+        "description": "Không gian trồng và chế biến trà đặc trưng"
+      },
+      {
+        "name": "Hồ Núi Cốc",
+        "description": "Cảnh quan hồ và các hoạt động tham quan"
+      },
+      {
+        "name": "Hồ Ba Bể",
+        "description": "Hồ nước ngọt giữa cảnh quan núi rừng và bản làng"
+      }
+    ],
+    "foods": [
+      "Chè Tân Cương",
+      "Bánh chưng Bờ Đậu",
+      "Miến dong"
+    ],
+    "travelTip": "Tuyến chè – Núi Cốc và tuyến Ba Bể nên có thời gian riêng cho di chuyển và trải nghiệm.",
+    "image": "/images/thai-nguyen.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Thái Nguyên",
+        "url": "https://thainguyen.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://thainguyen.gov.vn/di-tich-danh-lam-thang-canh"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Thái Nguyên"
+  },
+  {
+    "slug": "phu-tho",
+    "name": "Phú Thọ",
+    "region": "Miền Bắc",
+    "tagline": "Về đất Tổ, mở lối lên núi xanh",
+    "description": "Phú Thọ là điểm gặp của hành trình về Đền Hùng với không gian nghỉ ngơi ở Tam Đảo, Mai Châu và hồ Hòa Bình trong địa giới hiện nay. Di sản và cảnh quan tạo nên nhiều lựa chọn cho chuyến đi văn hóa, nghỉ cuối tuần hoặc tìm hiểu đời sống cộng đồng.",
+    "highlights": [
+      {
+        "name": "Đền Hùng",
+        "description": "Quần thể di tích gắn với tín ngưỡng thờ cúng Hùng Vương"
+      },
+      {
+        "name": "Tam Đảo",
+        "description": "Không gian nghỉ ngơi và cảnh quan núi"
+      },
+      {
+        "name": "Mai Châu",
+        "description": "Thung lũng và các bản du lịch cộng đồng"
+      }
+    ],
+    "foods": [
+      "Bánh tai Phú Thọ",
+      "Thịt chua",
+      "Cơm lam"
+    ],
+    "travelTip": "Chọn một cụm Đền Hùng, Tam Đảo hoặc Mai Châu cho từng chặng; các khu vực không nằm sát nhau.",
+    "image": "/images/phu-tho.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Phú Thọ",
+        "url": "https://phutho.gov.vn/"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Phú Thọ"
+  },
+  {
+    "slug": "bac-ninh",
+    "name": "Bắc Ninh",
+    "region": "Miền Bắc",
+    "tagline": "Nghe câu quan họ, chạm vào làng nghề",
+    "description": "Bắc Ninh có nét riêng của dân ca quan họ, các không gian tín ngưỡng và những làng nghề bên sông. Phù Lãng đưa người ghé thăm đến gần nghề gốm; Đông Hồ gợi mở câu chuyện tranh dân gian. Một hành trình ngắn vẫn có thể dành thời gian cho di tích, nghệ thuật và món ăn Kinh Bắc.",
+    "highlights": [
+      {
+        "name": "Làng Diềm",
+        "description": "Không gian văn hóa gắn với dân ca quan họ"
+      },
+      {
+        "name": "Làng gốm Phù Lãng",
+        "description": "Nơi tìm hiểu nghề gốm truyền thống"
+      },
+      {
+        "name": "Làng tranh Đông Hồ",
+        "description": "Không gian tìm hiểu tranh dân gian và kỹ thuật in tranh"
+      }
+    ],
+    "foods": [
+      "Bánh phu thê",
+      "Bánh đa Kế",
+      "Bánh khúc làng Diềm"
+    ],
+    "travelTip": "Liên hệ cơ sở hoặc điểm tham quan trước nếu muốn xem trình diễn nghề hay chương trình quan họ.",
+    "image": "/images/bac-ninh.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Bắc Ninh",
+        "url": "https://bacninh.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://bacninh.gov.vn/news/-/details/37632/pho-chu-tich-ubnd-tinh-ao-quang-khai-tiep-va-lam-viec-voi-hiep-hoi-du-lich-viet-nam-27896501"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Bắc Ninh"
+  },
+  {
+    "slug": "hai-phong",
+    "name": "Hải Phòng",
+    "region": "Miền Bắc",
+    "tagline": "Phố cảng, biển xanh và miền di sản",
+    "description": "Hải Phòng kết nối nhịp sống phố cảng với Cát Bà, Đồ Sơn và không gian Côn Sơn – Kiếp Bạc trong địa giới hiện nay. Một hành trình có thể bắt đầu bằng ẩm thực đô thị rồi chuyển sang biển đảo hoặc di sản. Mỗi khu vực đem lại một sắc thái khác của thành phố.",
+    "highlights": [
+      {
+        "name": "Cát Bà – vịnh Lan Hạ",
+        "description": "Không gian biển đảo và núi đá vôi"
+      },
+      {
+        "name": "Đồ Sơn",
+        "description": "Vùng biển gắn với đời sống du lịch Hải Phòng"
+      },
+      {
+        "name": "Côn Sơn – Kiếp Bạc",
+        "description": "Quần thể di tích văn hóa và lịch sử"
+      }
+    ],
+    "foods": [
+      "Bánh đa cua",
+      "Nem cua bể",
+      "Bánh đậu xanh"
+    ],
+    "travelTip": "Dành tuyến riêng cho Cát Bà; kiểm tra lịch phương tiện đường thủy theo ngày đi.",
+    "image": "/images/hai-phong.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Thành phố",
+    "sources": [
+      {
+        "label": "Cổng thông tin Hải Phòng",
+        "url": "https://haiphong.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://haiphong.gov.vn/tin-tuc-su-kien/khai-mac-tuan-van-hoa-du-lich-va-xuc-tien-thuong-mai-le-hoi-con-son-kiep-bac-mua-thu-nam-2026-971858"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Hải Phòng"
+  },
+  {
+    "slug": "quang-ninh",
+    "name": "Quảng Ninh",
+    "region": "Miền Bắc",
+    "tagline": "Nơi núi gặp biển, nơi hành trình mở ra",
+    "description": "Quảng Ninh nổi bật với cảnh quan vịnh Hạ Long, Bái Tử Long, các đảo và vùng di sản Yên Tử. Bên cạnh những chuyến đi trên mặt nước là không gian văn hóa, đời sống ven biển và ẩm thực địa phương. Hãy chọn một tuyến biển đảo hoặc một hành trình di sản để cảm nhận trọn vẹn hơn.",
+    "highlights": [
+      {
+        "name": "Vịnh Hạ Long",
+        "description": "Cảnh quan vịnh với các đảo đá vôi"
+      },
+      {
+        "name": "Yên Tử",
+        "description": "Không gian di sản và cảnh quan núi"
+      },
+      {
+        "name": "Cô Tô",
+        "description": "Quần đảo với các bãi biển và đời sống cộng đồng đảo"
+      }
+    ],
+    "foods": [
+      "Chả mực Hạ Long",
+      "Sá sùng",
+      "Hải sản ven biển"
+    ],
+    "travelTip": "Kiểm tra thời tiết và lịch tàu khi đi đảo; hỏi rõ lộ trình trước khi đặt dịch vụ.",
+    "image": "/images/vietnam-1.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Quảng Ninh",
+        "url": "https://quangninh.gov.vn/"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Quảng Ninh"
+  },
+  {
+    "slug": "hung-yen",
+    "name": "Hưng Yên",
+    "region": "Miền Bắc",
+    "tagline": "Miền văn hiến bên những dòng sông",
+    "description": "Hưng Yên hiện kết nối không gian Phố Hiến với vùng văn hóa và cảnh quan từng thuộc Thái Bình. Di tích, làng quê và đời sống đồng bằng tạo nên những chuyến đi nhẹ nhàng từ đô thị đến vùng ven biển. Có thể bắt đầu bằng Phố Hiến rồi dành một chặng riêng cho chùa Keo.",
+    "highlights": [
+      {
+        "name": "Phố Hiến",
+        "description": "Không gian di tích gắn với lịch sử thương cảng"
+      },
+      {
+        "name": "Chùa Keo",
+        "description": "Quần thể kiến trúc chùa truyền thống ở vùng Thái Bình"
+      },
+      {
+        "name": "Đền Trần Phố Hiến",
+        "description": "Một điểm dừng trong hành trình văn hóa Phố Hiến"
+      }
+    ],
+    "foods": [
+      "Nhãn lồng",
+      "Bún cá Quỳnh Côi",
+      "Bánh cáy"
+    ],
+    "travelTip": "Nhóm các điểm theo khu vực để giảm thời gian di chuyển giữa phía Hưng Yên và phía Thái Bình.",
+    "image": "/images/hung-yen.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Hưng Yên",
+        "url": "https://hungyen.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://dulich.hungyen.gov.vn/vi/detailnews/?id=news_3977&t=tour-du-lich-pho-hien-net-dep-van-hoa-xua"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Hưng Yên"
+  },
+  {
+    "slug": "ninh-binh",
+    "name": "Ninh Bình",
+    "region": "Miền Bắc",
+    "tagline": "Một miền di sản xanh",
+    "description": "Ninh Bình cuốn hút bằng núi đá vôi, mặt nước và những dấu ấn cố đô. Trong địa giới hiện nay, hành trình còn có thể kết nối không gian văn hóa Nam Định và Hà Nam. Tràng An, Hoa Lư và Tam Cốc là những điểm bắt đầu để khám phá cảnh quan, lịch sử và đời sống địa phương.",
+    "highlights": [
+      {
+        "name": "Tràng An",
+        "description": "Cảnh quan núi đá, sông nước và hang động"
+      },
+      {
+        "name": "Cố đô Hoa Lư",
+        "description": "Không gian di tích gắn với lịch sử kinh đô"
+      },
+      {
+        "name": "Tam Cốc – Bích Động",
+        "description": "Tuyến cảnh quan sông nước, núi đá và chùa"
+      }
+    ],
+    "foods": [
+      "Cơm cháy Ninh Bình",
+      "Thịt dê",
+      "Phở bò Nam Định"
+    ],
+    "travelTip": "Dành thời gian cho một tuyến thuyền và một khu di tích thay vì ghé quá nhiều điểm trong ngày.",
+    "image": "/images/vietnam-2.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Ninh Bình",
+        "url": "https://ninhbinh.gov.vn/"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Ninh Bình"
+  },
+  {
+    "slug": "thanh-hoa",
+    "name": "Thanh Hóa",
+    "region": "Miền Trung",
+    "tagline": "Từ miền thành cổ đến bản làng xanh",
+    "description": "Thanh Hóa mở ra nhiều sắc thái: di sản Thành Nhà Hồ, không gian lịch sử Lam Kinh, cảnh quan Pù Luông và vùng biển Sầm Sơn. Những tuyến đường từ đồng bằng lên núi cho thấy sự phong phú của thiên nhiên và văn hóa xứ Thanh. Hãy chọn một chủ đề cho từng chặng để có thời gian cảm nhận.",
+    "highlights": [
+      {
+        "name": "Thành Nhà Hồ",
+        "description": "Di tích thành đá gắn với lịch sử triều Hồ"
+      },
+      {
+        "name": "Pù Luông",
+        "description": "Cảnh quan núi, ruộng và bản làng"
+      },
+      {
+        "name": "Sầm Sơn",
+        "description": "Đô thị du lịch biển của Thanh Hóa"
+      }
+    ],
+    "foods": [
+      "Nem chua",
+      "Chả tôm",
+      "Bánh gai Tứ Trụ"
+    ],
+    "travelTip": "Có thể chọn chuyến nghỉ biển hoặc hành trình di sản – miền núi; kiểm tra điều kiện đường khi đi Pù Luông.",
+    "image": "/images/thanh-hoa.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Thanh Hóa",
+        "url": "https://thanhhoa.gov.vn/"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Thanh Hóa"
+  },
+  {
+    "slug": "nghe-an",
+    "name": "Nghệ An",
+    "region": "Miền Trung",
+    "tagline": "Về xứ Nghệ, nghe câu chuyện quê hương",
+    "description": "Nghệ An kết nối hành trình về Khu di tích Kim Liên với vùng biển Cửa Lò và thiên nhiên miền Tây ở Pù Mát. Dấu ấn lịch sử, văn hóa dân gian và đời sống địa phương tạo nên nhiều cách khám phá. Một chuyến đi vừa có thể tìm hiểu di sản vừa dành thời gian nghỉ ngơi bên biển.",
+    "highlights": [
+      {
+        "name": "Khu di tích Kim Liên",
+        "description": "Không gian tìm hiểu quê hương Chủ tịch Hồ Chí Minh"
+      },
+      {
+        "name": "Cửa Lò",
+        "description": "Vùng biển và dịch vụ nghỉ ngơi ven bờ"
+      },
+      {
+        "name": "Vườn quốc gia Pù Mát",
+        "description": "Không gian rừng và du lịch sinh thái miền Tây Nghệ An"
+      }
+    ],
+    "foods": [
+      "Cháo lươn",
+      "Bánh mướt",
+      "Nhút Thanh Chương"
+    ],
+    "travelTip": "Tuyến Kim Liên – Cửa Lò và tuyến Pù Mát có khoảng cách đáng kể, nên bố trí thành các chặng.",
+    "image": "/images/nghe-an.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Nghệ An",
+        "url": "https://nghean.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://dulichcualo.nghean.gov.vn/"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Nghệ An"
+  },
+  {
+    "slug": "ha-tinh",
+    "name": "Hà Tĩnh",
+    "region": "Miền Trung",
+    "tagline": "Một khoảng lặng giữa biển và miền di sản",
+    "description": "Hà Tĩnh có biển Thiên Cầm, hồ Kẻ Gỗ và những địa chỉ văn hóa, lịch sử như Khu lưu niệm Nguyễn Du, Ngã ba Đồng Lộc. Hành trình có thể kết hợp nghỉ biển với tìm hiểu những câu chuyện làm nên bản sắc xứ Nghệ Tĩnh. Những món ăn giản dị là một phần đáng nhớ của chuyến đi.",
+    "highlights": [
+      {
+        "name": "Biển Thiên Cầm",
+        "description": "Vùng bờ biển và không gian nghỉ ngơi"
+      },
+      {
+        "name": "Ngã ba Đồng Lộc",
+        "description": "Địa chỉ tưởng niệm và tìm hiểu lịch sử"
+      },
+      {
+        "name": "Khu lưu niệm Nguyễn Du",
+        "description": "Không gian gắn với tác giả Truyện Kiều"
+      }
+    ],
+    "foods": [
+      "Kẹo cu đơ",
+      "Ram bánh mướt",
+      "Bưởi Phúc Trạch"
+    ],
+    "travelTip": "Chọn tuyến biển – văn hóa hoặc tuyến di tích theo thời gian; xác nhận điều kiện tham quan trước chuyến đi.",
+    "image": "/images/ha-tinh.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Hà Tĩnh",
+        "url": "https://hatinh.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://hatinh.gov.vn/vi/page/du-lich/bai-viet/cam-nang-du-lich-bien-thien-cam"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Hà Tĩnh"
+  },
+  {
+    "slug": "quang-tri",
+    "name": "Quảng Trị",
+    "region": "Miền Trung",
+    "tagline": "Từ những trang sử đến thế giới hang động",
+    "description": "Quảng Trị trong địa giới hiện nay kết nối di tích đôi bờ Hiền Lương – Bến Hải, địa đạo Vịnh Mốc với vùng hang động Phong Nha – Kẻ Bàng. Lịch sử và thiên nhiên cùng tạo nên một hành trình nhiều chiều sâu. Giữa các điểm dừng, vùng biển và đời sống miền Trung đem lại những khoảng nghỉ gần gũi.",
+    "highlights": [
+      {
+        "name": "Phong Nha – Kẻ Bàng",
+        "description": "Vùng di sản thiên nhiên với cảnh quan núi đá và hang động"
+      },
+      {
+        "name": "Địa đạo Vịnh Mốc",
+        "description": "Di tích lịch sử về đời sống trong lòng đất thời chiến"
+      },
+      {
+        "name": "Hiền Lương – Bến Hải",
+        "description": "Cụm di tích gắn với lịch sử chia cắt và thống nhất"
+      }
+    ],
+    "foods": [
+      "Cháo canh",
+      "Bánh lọc",
+      "Bún hến Mai Xá"
+    ],
+    "travelTip": "Các tuyến hang động có yêu cầu riêng; chọn đơn vị được phép tổ chức và xác nhận điều kiện tham gia.",
+    "image": "/images/quang-tri.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Quảng Trị",
+        "url": "https://quangtri.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://dulich.quangtri.gov.vn/vi/ditichquocgiadiadaovinhmoc"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Quảng Trị"
+  },
+  {
+    "slug": "hue",
+    "name": "Huế",
+    "region": "Miền Trung",
+    "tagline": "Đi chậm giữa miền di sản",
+    "description": "Huế được cảm nhận qua kinh thành, dòng sông Hương, những khu vườn và ẩm thực cố đô. Đại Nội, các lăng và chùa Thiên Mụ tạo nên hành trình tìm hiểu kiến trúc, lịch sử và đời sống. Dành một buổi đi bộ hoặc một khoảng nghỉ bên sông sẽ giúp chuyến đi có nhịp riêng.",
+    "highlights": [
+      {
+        "name": "Đại Nội Huế",
+        "description": "Không gian cung đình trong quần thể di tích cố đô"
+      },
+      {
+        "name": "Chùa Thiên Mụ",
+        "description": "Ngôi chùa bên sông Hương"
+      },
+      {
+        "name": "Lăng vua Nguyễn",
+        "description": "Những quần thể kiến trúc và cảnh quan gắn với triều Nguyễn"
+      }
+    ],
+    "foods": [
+      "Bún bò Huế",
+      "Cơm hến",
+      "Bánh bèo, nậm, lọc"
+    ],
+    "travelTip": "Chọn một vài cụm di tích và dành đủ thời gian cho từng nơi; chuẩn bị cho thời tiết miền Trung.",
+    "image": "/images/hue.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Thành phố",
+    "sources": [
+      {
+        "label": "Cổng thông tin Huế",
+        "url": "https://hue.gov.vn/"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Huế"
+  },
+  {
+    "slug": "da-nang",
+    "name": "Đà Nẵng",
+    "region": "Miền Trung",
+    "tagline": "Biển xanh, phố cổ và những cuộc gặp",
+    "description": "Đà Nẵng hiện kết nối không gian đô thị biển với Hội An, Mỹ Sơn và các vùng văn hóa từng thuộc Quảng Nam. Một hành trình có thể chuyển từ bình minh bên biển sang những mái ngói phố cổ, rồi tìm hiểu di sản Chăm. Ẩm thực địa phương giúp nối những điểm dừng bằng trải nghiệm gần gũi.",
+    "highlights": [
+      {
+        "name": "Biển Mỹ Khê",
+        "description": "Không gian biển và đời sống đô thị ven bờ"
+      },
+      {
+        "name": "Phố cổ Hội An",
+        "description": "Quần thể kiến trúc, phố xá và văn hóa địa phương"
+      },
+      {
+        "name": "Thánh địa Mỹ Sơn",
+        "description": "Không gian di sản kiến trúc Chăm"
+      }
+    ],
+    "foods": [
+      "Mì Quảng",
+      "Cao lầu Hội An",
+      "Bánh tráng cuốn thịt heo"
+    ],
+    "travelTip": "Chọn một ngày riêng cho Hội An hoặc Mỹ Sơn thay vì chỉ ghé nhanh trong hành trình biển.",
+    "image": "/images/hoi-an.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Thành phố",
+    "sources": [
+      {
+        "label": "Cổng thông tin Đà Nẵng",
+        "url": "https://danang.gov.vn/"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Đà Nẵng"
+  },
+  {
+    "slug": "quang-ngai",
+    "name": "Quảng Ngãi",
+    "region": "Miền Trung",
+    "tagline": "Một hành trình nối đảo xa với cao nguyên",
+    "description": "Quảng Ngãi sau sắp xếp địa giới mang đến sự tương phản thú vị giữa biển đảo Lý Sơn, văn hóa Sa Huỳnh và vùng cao nguyên Măng Đen. Những chặng biển, làng quê và rừng núi không nằm liền nhau nhưng có thể tạo nên một chuyến đi đa dạng.",
+    "highlights": [
+      {
+        "name": "Lý Sơn",
+        "description": "Đảo với cảnh quan núi lửa và đời sống cộng đồng biển"
+      },
+      {
+        "name": "Măng Đen",
+        "description": "Vùng cao nguyên với rừng và không gian nghỉ ngơi"
+      },
+      {
+        "name": "Văn hóa Sa Huỳnh",
+        "description": "Dấu ấn khảo cổ và đời sống văn hóa ven biển"
+      }
+    ],
+    "foods": [
+      "Don Quảng Ngãi",
+      "Tỏi Lý Sơn",
+      "Gỏi lá"
+    ],
+    "travelTip": "Lý Sơn cần kiểm tra thời tiết và lịch tàu; Măng Đen phù hợp một chặng riêng ở vùng cao.",
+    "image": "/images/quang-ngai.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Quảng Ngãi",
+        "url": "https://quangngai.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://lyson.quangngai.gov.vn/danh-muc-cot-phai/tin-tuc/chinh-tri-xa-hoi/dac-khu-ly-son-to-chuc-le-ky-ket-hop-tac-voi-xa-mang-den.html"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Quảng Ngãi"
+  },
+  {
+    "slug": "gia-lai",
+    "name": "Gia Lai",
+    "region": "Miền Trung",
+    "tagline": "Từ đại ngàn đến những vịnh biển",
+    "description": "Gia Lai hiện kết nối cao nguyên Pleiku với vùng biển Quy Nhơn. Biển Hồ, văn hóa cồng chiêng và cà phê tạo dấu ấn miền cao; Kỳ Co và các bờ biển đem lại nhịp nghỉ ngơi khác. Sự đa dạng ấy phù hợp một hành trình chia thành những chặng rõ ràng.",
+    "highlights": [
+      {
+        "name": "Biển Hồ Pleiku",
+        "description": "Cảnh quan hồ trên cao nguyên"
+      },
+      {
+        "name": "Kỳ Co",
+        "description": "Điểm đến biển thuộc khu vực Quy Nhơn"
+      },
+      {
+        "name": "Không gian văn hóa Tây Nguyên",
+        "description": "Trải nghiệm văn hóa cộng đồng và đời sống miền cao"
+      }
+    ],
+    "foods": [
+      "Phở khô Gia Lai",
+      "Bún chả cá Quy Nhơn",
+      "Bánh ít lá gai"
+    ],
+    "travelTip": "Tách chặng cao nguyên Pleiku và chặng biển Quy Nhơn để có thời gian trải nghiệm mỗi vùng.",
+    "image": "/images/gia-lai.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Gia Lai",
+        "url": "https://gialai.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://quynhondong.gialai.gov.vn/du-lich/du-lich-ky-co.html"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Gia Lai"
+  },
+  {
+    "slug": "dak-lak",
+    "name": "Đắk Lắk",
+    "region": "Miền Trung",
+    "tagline": "Hương cà phê gặp gió biển",
+    "description": "Đắk Lắk trong địa giới hiện nay kết nối vùng Buôn Ma Thuột, hồ Lắk với cảnh quan biển của khu vực Phú Yên. Những buôn làng và văn hóa cà phê đem lại nét riêng miền cao, trong khi Gành Đá Đĩa và đầm Ô Loan mở ra hành trình ven biển.",
+    "highlights": [
+      {
+        "name": "Buôn Đôn",
+        "description": "Vùng văn hóa và du lịch cộng đồng phía Tây cao nguyên"
+      },
+      {
+        "name": "Hồ Lắk",
+        "description": "Cảnh quan hồ và đời sống cộng đồng ven hồ"
+      },
+      {
+        "name": "Gành Đá Đĩa",
+        "description": "Cảnh quan đá ven biển khu vực Phú Yên"
+      }
+    ],
+    "foods": [
+      "Cà phê Buôn Ma Thuột",
+      "Cơm lam",
+      "Bánh canh hẹ"
+    ],
+    "travelTip": "Có thể chọn tuyến Buôn Ma Thuột – hồ Lắk hoặc tuyến ven biển; các khu vực cách nhau đáng kể.",
+    "image": "/images/dak-lak.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Đắk Lắk",
+        "url": "https://daklak.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://vhttdl.daklak.gov.vn/Articles/Detail/2318"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Đắk Lắk"
+  },
+  {
+    "slug": "khanh-hoa",
+    "name": "Khánh Hòa",
+    "region": "Miền Trung",
+    "tagline": "Sắc biển và dấu ấn văn hóa Chăm",
+    "description": "Khánh Hòa hiện mở rộng hành trình biển từ Nha Trang, Cam Ranh đến Vĩnh Hy và vùng Phan Rang. Bờ biển, những vịnh nước và dấu ấn văn hóa Chăm tạo nên nhiều cách khám phá. Hãy dành thời gian cho cả cảnh quan và những điểm dừng văn hóa bên ngoài khu nghỉ dưỡng.",
+    "highlights": [
+      {
+        "name": "Nha Trang",
+        "description": "Đô thị biển với các bãi tắm và điểm tham quan"
+      },
+      {
+        "name": "Vĩnh Hy",
+        "description": "Vịnh biển trên cung đường phía Nam Khánh Hòa"
+      },
+      {
+        "name": "Tháp Po Klong Garai",
+        "description": "Quần thể kiến trúc Chăm ở khu vực Phan Rang"
+      }
+    ],
+    "foods": [
+      "Bún cá Nha Trang",
+      "Nem nướng",
+      "Bánh căn"
+    ],
+    "travelTip": "Chọn một cụm lưu trú phù hợp lộ trình; theo dõi điều kiện biển trước hoạt động đường thủy.",
+    "image": "/images/khanh-hoa.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Khánh Hòa",
+        "url": "https://khanhhoa.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://dulichso.khanhhoa.gov.vn/en/article/where-to-stay-nha-trang-cam-ranh-or-vinh-hy-05c"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Khánh Hòa"
+  },
+  {
+    "slug": "lam-dong",
+    "name": "Lâm Đồng",
+    "region": "Miền Trung",
+    "tagline": "Từ phố núi đến cát biển",
+    "description": "Lâm Đồng hiện kết nối không gian Đà Lạt, Tà Đùng với vùng biển Mũi Né. Những cao nguyên, mặt hồ và dải cát ven biển đem lại sự thay đổi cảnh quan rõ nét. Mỗi chặng có khí hậu và nhịp sinh hoạt riêng, phù hợp một chuyến đi biết dành thời gian cho từng vùng.",
+    "highlights": [
+      {
+        "name": "Đà Lạt",
+        "description": "Đô thị cao nguyên với hồ, vườn và kiến trúc"
+      },
+      {
+        "name": "Tà Đùng",
+        "description": "Cảnh quan hồ và các đảo giữa núi rừng"
+      },
+      {
+        "name": "Mũi Né",
+        "description": "Vùng biển, đồi cát và đời sống làng chài"
+      }
+    ],
+    "foods": [
+      "Bánh căn Đà Lạt",
+      "Cà phê cao nguyên",
+      "Nước mắm Phan Thiết"
+    ],
+    "travelTip": "Chuẩn bị trang phục cho cả vùng cao và biển; không đánh giá thời tiết toàn địa phương theo một điểm đến.",
+    "image": "/images/lam-dong.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Lâm Đồng",
+        "url": "https://lamdong.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://tadung.lamdong.gov.vn/ta-dung--tiem-nang-phat-trien-du-lich-sinh-thai-nghi-duong-gan-voi-ban-sac-van-hoa-dia-phuong-N189.aspx"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Lâm Đồng"
+  },
+  {
+    "slug": "ho-chi-minh",
+    "name": "TP. Hồ Chí Minh",
+    "region": "Miền Nam",
+    "tagline": "Nhịp sống đô thị, khoảng nghỉ bên biển",
+    "description": "TP. Hồ Chí Minh hiện kết nối nhịp sống đô thị Sài Gòn với vùng ven biển Vũng Tàu và Côn Đảo. Chợ, bảo tàng, ẩm thực đường phố và những không gian sáng tạo tạo nên sức hút thành phố. Một hành trình dài hơn có thể mở rộng đến biển hoặc tìm hiểu lịch sử tại Củ Chi.",
+    "highlights": [
+      {
+        "name": "Chợ Bến Thành",
+        "description": "Không gian giao thương quen thuộc của đô thị"
+      },
+      {
+        "name": "Địa đạo Củ Chi",
+        "description": "Di tích và hành trình tìm hiểu lịch sử"
+      },
+      {
+        "name": "Côn Đảo",
+        "description": "Quần đảo với cảnh quan biển và các địa chỉ lịch sử"
+      }
+    ],
+    "foods": [
+      "Cơm tấm",
+      "Bánh mì",
+      "Bánh khọt Vũng Tàu"
+    ],
+    "travelTip": "Đô thị, Vũng Tàu và Côn Đảo cần những chặng riêng; xác nhận phương tiện trước khi ra đảo.",
+    "image": "/images/ho-chi-minh.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Thành phố",
+    "sources": [
+      {
+        "label": "Cổng thông tin TP. Hồ Chí Minh",
+        "url": "https://hochiminhcity.gov.vn/"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "TP. Hồ Chí Minh"
+  },
+  {
+    "slug": "dong-nai",
+    "name": "Đồng Nai",
+    "region": "Miền Nam",
+    "tagline": "Tìm một khoảng xanh giữa miền Đông",
+    "description": "Đồng Nai có những không gian rừng, hồ và vùng nông nghiệp bên cạnh nhịp sống công nghiệp. Cát Tiên, Bù Gia Mập và hồ Trị An là những điểm bắt đầu cho hành trình gần thiên nhiên. Những tuyến tham quan rừng cần được tìm hiểu và đăng ký với đơn vị quản lý phù hợp.",
+    "highlights": [
+      {
+        "name": "Vườn quốc gia Cát Tiên",
+        "description": "Không gian tìm hiểu hệ sinh thái rừng và thiên nhiên"
+      },
+      {
+        "name": "Vườn quốc gia Bù Gia Mập",
+        "description": "Vùng rừng và các tuyến trải nghiệm được quản lý"
+      },
+      {
+        "name": "Hồ Trị An",
+        "description": "Cảnh quan hồ và những điểm nghỉ ven bờ"
+      }
+    ],
+    "foods": [
+      "Bưởi Tân Triều",
+      "Hạt điều",
+      "Trái cây vườn"
+    ],
+    "travelTip": "Liên hệ đơn vị quản lý trước khi vào rừng; không tự suy diễn mọi tuyến đều mở tự do.",
+    "image": "/images/dong-nai.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Thành phố",
+    "sources": [
+      {
+        "label": "Cổng thông tin Đồng Nai",
+        "url": "https://dongnai.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://svhttdl.dongnai.gov.vn/vi/news/du-lich/vuon-quoc-gia-bu-gia-map-du-dieu-kien-kinh-doanh-cac-san-pham-du-lich-co-nguy-co-anh-huong-den-tinh-mang-suc-khoe-cua-khach-du-lich-308.html"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      },
+      {
+        "label": "Nghị quyết thành lập thành phố Đồng Nai",
+        "url": "https://chinhphu.vn/?classid=1&docid=218009&pageid=27160"
+      }
+    ],
+    "imageCaption": "Đồng Nai"
+  },
+  {
+    "slug": "tay-ninh",
+    "name": "Tây Ninh",
+    "region": "Miền Nam",
+    "tagline": "Miền núi thiêng và đồng nước",
+    "description": "Tây Ninh hiện kết nối núi Bà Đen, Tòa Thánh Cao Đài với vùng sinh thái Đồng Tháp Mười từng thuộc Long An. Những hành trình văn hóa, cảnh quan và làng nghề có thể bắt đầu từ các điểm gần đô thị rồi mở rộng về vùng đồng nước.",
+    "highlights": [
+      {
+        "name": "Núi Bà Đen",
+        "description": "Cảnh quan núi và không gian du lịch văn hóa"
+      },
+      {
+        "name": "Tòa Thánh Tây Ninh",
+        "description": "Công trình kiến trúc và tín ngưỡng Cao Đài"
+      },
+      {
+        "name": "Láng Sen",
+        "description": "Vùng đất ngập nước ở khu vực Đồng Tháp Mười"
+      }
+    ],
+    "foods": [
+      "Bánh tráng phơi sương",
+      "Muối tôm",
+      "Bò tơ"
+    ],
+    "travelTip": "Tìm hiểu quy định tham quan không gian tín ngưỡng; chỉ đi theo các tuyến hoạt động được cho phép.",
+    "image": "/images/tay-ninh.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Tây Ninh",
+        "url": "https://tayninh.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://khudulichnuibaden.tayninh.gov.vn/gia-ve-cap-treo"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Tây Ninh"
+  },
+  {
+    "slug": "dong-thap",
+    "name": "Đồng Tháp",
+    "region": "Miền Nam",
+    "tagline": "Hương vườn, sắc hoa và miền sông nước",
+    "description": "Đồng Tháp hiện kết nối vùng sen, làng hoa Sa Đéc với các hành trình miệt vườn Mỹ Tho và Cái Bè. Tràm Chim cho thấy nét riêng của hệ sinh thái đất ngập nước; đời sống bên sông đem lại những trải nghiệm ẩm thực và thủ công gần gũi.",
+    "highlights": [
+      {
+        "name": "Làng hoa Sa Đéc",
+        "description": "Vùng trồng hoa và cây cảnh với đời sống nghề vườn"
+      },
+      {
+        "name": "Tràm Chim",
+        "description": "Không gian đất ngập nước và quan sát thiên nhiên"
+      },
+      {
+        "name": "Cái Bè",
+        "description": "Khu vực sông nước, vườn cây và các trải nghiệm địa phương"
+      }
+    ],
+    "foods": [
+      "Hủ tiếu Mỹ Tho",
+      "Nem Lai Vung",
+      "Các món từ sen"
+    ],
+    "travelTip": "Hoạt động vùng ngập nước và hoa thay đổi theo mùa; hỏi điểm đến về điều kiện thực tế.",
+    "image": "/images/dong-thap.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Đồng Tháp",
+        "url": "https://dongthap.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://dulich.dongthap.gov.vn/vi/tramchim"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Đồng Tháp"
+  },
+  {
+    "slug": "vinh-long",
+    "name": "Vĩnh Long",
+    "region": "Miền Nam",
+    "tagline": "Những nhánh sông, những câu chuyện vườn",
+    "description": "Vĩnh Long hiện kết nối vùng cù lao, miệt vườn với không gian văn hóa Bến Tre và Trà Vinh. Sông nước, nghề thủ công, vườn cây và các ngôi chùa Khmer tạo nên hành trình phong phú. Hãy để chuyến đi có khoảng thời gian trò chuyện và dùng bữa cùng người địa phương.",
+    "highlights": [
+      {
+        "name": "Cù lao An Bình",
+        "description": "Không gian vườn cây và đời sống ven sông"
+      },
+      {
+        "name": "Cồn Phụng",
+        "description": "Điểm dừng trên sông thuộc khu vực Bến Tre"
+      },
+      {
+        "name": "Chùa Âng",
+        "description": "Công trình văn hóa Khmer ở khu vực Trà Vinh"
+      }
+    ],
+    "foods": [
+      "Bánh tét Trà Cuôn",
+      "Kẹo dừa",
+      "Trái cây miệt vườn"
+    ],
+    "travelTip": "Chọn cơ sở và phương tiện đường thủy có thông tin rõ ràng; xác nhận tuyến và chi phí trước khi đi.",
+    "image": "/images/vinh-long.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Vĩnh Long",
+        "url": "https://vinhlong.gov.vn/"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Vĩnh Long"
+  },
+  {
+    "slug": "can-tho",
+    "name": "Cần Thơ",
+    "region": "Miền Nam",
+    "tagline": "Hẹn nhau ở miền sông nước",
+    "description": "Cần Thơ hiện kết nối không gian đô thị bên sông Hậu với những vùng văn hóa từng thuộc Hậu Giang và Sóc Trăng. Chợ nổi Cái Răng, bến Ninh Kiều và các ngôi chùa Khmer mở ra nhiều góc nhìn về đời sống đồng bằng. Những món ăn và sản phẩm địa phương là một phần của hành trình.",
+    "highlights": [
+      {
+        "name": "Chợ nổi Cái Răng",
+        "description": "Tìm hiểu đời sống và giao thương gắn với sông nước"
+      },
+      {
+        "name": "Bến Ninh Kiều",
+        "description": "Không gian ven sông trong khu vực đô thị"
+      },
+      {
+        "name": "Chùa Dơi",
+        "description": "Không gian văn hóa Khmer thuộc khu vực Sóc Trăng"
+      }
+    ],
+    "foods": [
+      "Bánh xèo miền Tây",
+      "Bún nước lèo",
+      "Bánh pía"
+    ],
+    "travelTip": "Xác nhận tình hình hoạt động chợ nổi và lịch thuyền; các điểm ở Sóc Trăng cần một chặng di chuyển riêng.",
+    "image": "/images/can-tho.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Thành phố",
+    "sources": [
+      {
+        "label": "Cổng thông tin Cần Thơ",
+        "url": "https://cantho.gov.vn/"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Cần Thơ"
+  },
+  {
+    "slug": "an-giang",
+    "name": "An Giang",
+    "region": "Miền Nam",
+    "tagline": "Sắc màu từ đồng bằng đến biển đảo",
+    "description": "An Giang trong địa giới hiện nay kết nối Châu Đốc, vùng Bảy Núi và rừng tràm Trà Sư với Hà Tiên, Rạch Giá, Phú Quốc. Sự đa dạng cảnh quan và văn hóa mở ra lựa chọn từ trải nghiệm đồng bằng đến hành trình biển đảo. Mỗi vùng phù hợp một nhịp đi và cách khám phá riêng.",
+    "highlights": [
+      {
+        "name": "Rừng tràm Trà Sư",
+        "description": "Cảnh quan đất ngập nước và hệ sinh thái rừng tràm"
+      },
+      {
+        "name": "Hà Tiên",
+        "description": "Đô thị ven biển với cảnh quan và văn hóa địa phương"
+      },
+      {
+        "name": "Phú Quốc",
+        "description": "Đảo với bãi biển, vườn quốc gia và đời sống cộng đồng"
+      }
+    ],
+    "foods": [
+      "Bún cá Châu Đốc",
+      "Đường thốt nốt",
+      "Nước mắm Phú Quốc"
+    ],
+    "travelTip": "Tách tuyến đồng bằng và tuyến đảo; kiểm tra phương tiện, lịch tàu và thời tiết trước khi khởi hành.",
+    "image": "/images/an-giang.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin An Giang",
+        "url": "https://angiang.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://angiang.gov.vn/vi/an-giang-dau-tau-phu-quoc-tao-suc-bat-cho-du-lich"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "An Giang"
+  },
+  {
+    "slug": "ca-mau",
+    "name": "Cà Mau",
+    "region": "Miền Nam",
+    "tagline": "Về nơi đất gặp biển phương Nam",
+    "description": "Cà Mau hiện kết nối miền đất mũi, rừng ngập mặn với vùng văn hóa Bạc Liêu. Mũi Cà Mau và không gian U Minh Hạ gợi mở hành trình tìm hiểu thiên nhiên; những công trình và câu chuyện ở Bạc Liêu đem lại một góc nhìn khác về miền cực Nam.",
+    "highlights": [
+      {
+        "name": "Mũi Cà Mau",
+        "description": "Cảnh quan đất mũi và hệ sinh thái ven biển"
+      },
+      {
+        "name": "U Minh Hạ",
+        "description": "Không gian rừng tràm và thiên nhiên"
+      },
+      {
+        "name": "Nhà Công tử Bạc Liêu",
+        "description": "Công trình gắn với câu chuyện đời sống Bạc Liêu"
+      }
+    ],
+    "foods": [
+      "Cua Cà Mau",
+      "Bánh tằm",
+      "Ba khía"
+    ],
+    "travelTip": "Sắp xếp các điểm theo tuyến Bạc Liêu – Cà Mau – đất mũi; trao đổi trước về điều kiện đường thủy.",
+    "image": "/images/ca-mau.jpg",
+    "updatedAt": "2026-11-16",
+    "kind": "Tỉnh",
+    "sources": [
+      {
+        "label": "Cổng thông tin Cà Mau",
+        "url": "https://camau.gov.vn/"
+      },
+      {
+        "label": "Thông tin điểm đến và du lịch địa phương",
+        "url": "https://muicamau.camau.gov.vn/"
+      },
+      {
+        "label": "Danh mục tỉnh, thành phố hiện hành",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+      }
+    ],
+    "imageCaption": "Cà Mau"
+  }
+]

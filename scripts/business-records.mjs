@@ -27,7 +27,7 @@ export function validatePublicRecords(rows, { provinces, communes, categories, i
       const province = text(row, 'province', 2, 100); assert(provinces.some(p => p.slug === province), 'Unknown province');
       const commune = row.commune || ''; assert(!commune || communes.some(c => c.slug === commune && c.province === province), 'Unknown commune/province pair');
       const category = text(row, 'category', 2, 100); assert(categories.includes(category) && category !== 'Tất cả', 'Invalid category');
-      const image = text(row, 'image', 10, 200); assert(/^\/images\/[a-zA-Z0-9_-]+\.(jpg|jpeg|png|webp)$/.test(image) && imageExists(image), 'Image missing or invalid path');
+      const image = text(row, 'image', 10, 200); assert(/^\/images\/(?:[a-zA-Z0-9_-]+\/)*[a-zA-Z0-9_-]+\.(jpg|jpeg|png|webp)$/.test(image) && imageExists(image), 'Image missing or invalid path');
       const phone = row.phone || null, zalo = row.zalo || null, website = row.website || null;
       assert(!phone || /^[+0-9 ()-]{9,20}$/.test(phone), 'Invalid public phone');
       assert(!zalo || /^(0\d{9}|84\d{9})$/.test(zalo), 'Invalid public Zalo number');

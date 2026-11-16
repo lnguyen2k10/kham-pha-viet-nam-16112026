@@ -8,7 +8,7 @@ if (!input) { console.error('Usage: npm run import:businesses -- /path/to/review
 const root = path.resolve(import.meta.dirname,'..');
 const module = { exports: {} };
 const compiled = ts.transpileModule(fs.readFileSync(path.join(root,'lib/data.ts'),'utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS,esModuleInterop:true}}).outputText;
-new Function('exports','module','require',compiled)(module.exports,module,createRequire(import.meta.url));
+new Function('exports','module','require',compiled)(module.exports,module,createRequire(path.join(root,'lib/data.ts')));
 const { provinces, communes, categories } = module.exports;
 try {
   const rows = parseCSV(fs.readFileSync(input,'utf8'));

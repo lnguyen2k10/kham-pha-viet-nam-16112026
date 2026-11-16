@@ -1,73 +1,45 @@
 # Khám phá Việt Nam
 
-A separate, colorful travel and local-business discovery prototype with ocean blue, coral, sunshine yellow, pastel sections and approachable sans-serif typography. One codebase generates province, commune, destination and business-profile pages; businesses are data records, not independent GitHub repositories or Vercel projects.
+Website khám phá 34 tỉnh/thành phố, điểm đến và doanh nghiệp địa phương. Doanh nghiệp tự đăng miễn phí và có trang riêng ngay sau khi đăng; không cần email hoặc tài khoản Vercel.
 
-![Desktop preview](docs/previews/desktop.jpg)
+## Chức năng hiện tại
 
-[Mobile preview](docs/previews/mobile.jpg)
+- 34 bài giới thiệu tỉnh/thành phố, từng nơi có mô tả riêng, ba điểm đến, đặc sản, gợi ý hành trình và nguồn tham khảo. Danh sách theo sắp xếp địa giới hiện hành; Đồng Nai cập nhật theo Nghị quyết 30/2026/QH16.
+- Ảnh thật được ghi nguồn/tác giả/giấy phép tại `/nguon-anh`.
+- Trang Fit Club 222 sử dụng tên, địa chỉ, điện thoại/Zalo, logo và ảnh do chủ dự án cung cấp. Không thêm giá, giờ mở cửa, đánh giá hoặc chứng nhận chưa được cung cấp.
+- `/dang-ky`: điền thông tin, tải ảnh cơ sở, đăng trang ngay. Dữ liệu được lưu tại Vercel Blob private, không chỉ nằm trong trình duyệt.
+- `/trang-cua-toi`: xem, chỉnh sửa và xóa các trang đã đăng từ trình duyệt này. Quyền sửa dùng cookie HttpOnly riêng từng trang; khóa trong kho lưu trữ chỉ giữ dạng hash. Đây không phải tài khoản đa thiết bị hay đăng nhập bằng email.
+- Danh bạ, trang địa phương và bản đồ cùng đọc dữ liệu đã đăng. Điểm bản đồ là tổng hợp theo địa phương, không phải ghim địa chỉ được xác minh.
+- Phân biệt dữ liệu công khai với thông tin quản lý riêng. API không trả editHash/token cho trình duyệt.
+- Kiểm tra đầu vào, loại ảnh JPG/PNG/WebP và giới hạn 1,5 MB, giới hạn lượt đăng theo IP, kiểm tra Origin, chống bot cơ bản; cập nhật có điều kiện ETag.
+- Trang thật được phép index; `/dang-ky`, `/trang-cua-toi`, `/api/` không đưa vào sitemap. Không có thanh toán hoặc các chỉ số người dùng giả.
 
-## Included
+## Hạ tầng
 
-- Vietnamese homepage with an original AI-illustrated panoramic hero, frosted navigation, an interactive eight-locality schematic with labeled major islands and archipelagos and destination/business search.
-- Eight province pages, two commune/ward pages, eight destination pages and eight clearly labeled sample business profiles.
-- Working province/category/text filters, empty states, breadcrumbs and navigation between levels.
-- Business plan presentation at **300,000 VND/year**.
-- Registration draft: browser validation, preview, optional local-device save and JSON export.
-- Mobile navigation and back to top; image sources and attribution page.
+Next.js 15 / React 19, GitHub → Vercel. Vercel Blob private `kham-pha-viet-nam-business-pages` đã được kết nối với project. `BLOB_READ_WRITE_TOKEN` chỉ ở môi trường server; không đưa vào NEXT_PUBLIC hoặc Git. Bản ghi JSON theo từng doanh nghiệp, ảnh tách riêng. Cách lưu này dành cho giai đoạn quy mô nhỏ; danh sách được lưu đệm 30 giây và làm mới khi đăng/sửa/xóa.
 
-**This is a prototype.** No real account registration, database writes, payment collection, verified businesses, national administrative dataset or moderation backend is connected. The form does not claim it submitted data or accepted payment. Placeholder business names are illustrative. All pages default to noindex/nofollow until content is approved for production.
+## Chạy và kiểm tra
 
-## Run
+Dùng Node.js 22+.
 
 ```sh
 npm ci
-npm run dev
-```
-
-Production checks:
-
-```sh
-npm run check
+npm run test:content
+npm run check:content
 npm run build
+npm run check
 npm run start
 ```
 
-No external service credentials are required for the demo. Use Node.js 22 or newer.
+Máy phát triển cần `.env.local` có `BLOB_READ_WRITE_TOKEN` để thử đăng thật. Build không có credential vẫn tạo được nội dung địa phương và trang Fit Club từ dữ liệu công khai trong repo; API đăng không báo thành công nếu lưu trữ chưa sẵn sàng. `/api/health` kiểm tra kết nối lưu trữ thực tế.
 
-## Deploy
+## Dữ liệu
 
-Import `lnguyen2k10/kham-pha-viet-nam-16112026` as a separate Next.js project in Vercel. Default build and output settings work. No effect on the existing Fit Club demo repositories/projects.
+- `lib/provinces.json`: nội dung 34 địa phương và nguồn, cập nhật 16/11/2026.
+- `lib/province-photo-credits.json`, `lib/photo-credits.json`: ảnh và giấy phép.
+- `content/public-businesses.json`: thông tin Fit Club do chủ dự án cung cấp; có thể bổ sung nội dung biên tập.
+- `business-pages/*.json` trong Blob private: trang doanh nghiệp tự đăng, kèm hash quyền chỉnh sửa.
+- `business-images/*`: ảnh tải lên; phục vụ qua API chỉ cho ảnh JPG/PNG/WebP.
+- `posting-limits/*`: khóa chống đăng dồn, tự hết hạn sau một ngày.
 
-## Long-term architecture
-
-**[Hạ tầng và vận hành — tiếng Việt](docs/HA-TANG-VA-VAN-HANH.md)** covers ownership, roles, PostgreSQL/Auth/Storage, the annual plan, moderation, payments, stable administrative IDs, cache/SEO, backups and phased launch. These production features are recommendations, not claims that they already run in this demo.
-
-Images: Wikimedia Commons with author/license links in `/nguon-anh`, plus selected Unsplash landscape photographs. Image data and credits are included in the source. Landscape images in business profiles are labeled as illustrations, not storefront photos.
-
-[Hướng mở rộng bản đồ và cộng đồng 3D](docs/LO-TRINH-BAN-DO-VA-CONG-DONG-3D.md) — proposal only, not a shipped feature.
-
-## Validation
-
-TypeScript and production build passed. Browser checks passed at 360, 390, 768, 1024 and 1440px: navigation, destination search, province → commune → business, business filters/empty state, registration validation, preview, explicit local draft restore and JSON export. No browser page errors in the tested flows.
-
-## Focused scope
-
-Localities → destinations and local businesses → business introduction draft (300,000 VND/year). No product catalogue, shopping cart, reviews, user favorites, chat, realtime 3D or booking system. Island/archipelago symbols are illustrative, not geographic boundaries or a complete inventory. An authoritative map review is required before public launch.
-
-## Inner-page review — 16 November 2026
-
-All inner routes share scenic image heroes, Playfair Display headings, readable Be Vietnam Pro body copy, travel colors and responsive content layouts. Locality and business details now include contextual navigation and related destinations/businesses.
-
-[Readiness report (Vietnamese)](docs/BAO-CAO-SAN-SANG.md). Checked all 33 public pages and 54 internal link targets at desktop/tablet/mobile sizes. Ready for design demonstration, not commercial operation.
-
-## Business light map and curated pilot
-
-`/ban-do` links regional clusters to business profiles, with industry/region/search filters, truthful record totals, keyboard support and reduced-motion controls. Home uses the same map component and data. No fake check-ins, exact business pins or online counters.
-
-- `NEXT_PUBLIC_CONTENT_MODE=demo` (default): sample profiles only.
-- `NEXT_PUBLIC_CONTENT_MODE=public`: only reviewed records from `content/public-businesses.json`; no fallback to samples. Rebuild required. Public feed is currently empty; live deployment stays in demo mode.
-- `npm run import:businesses -- reviewed.csv`: validated, editorial CSV import into the public content file. Replaces the complete public list, so review the diff before publishing. This is an operator workflow, not a self-service CMS or a database.
-- `npm run test:content` and `npm run check:content`: validation tests and content integrity checks, also run in GitHub Actions.
-- `/api/health`: app response check; explicitly reports that commercial operation, public intake and payments are not ready. Not an external monitoring/alert service.
-
-[Import/publishing runbook](docs/NHAP-VA-XUAT-BAN.md) · [Pilot plan and market validation](docs/THI-DIEM-VA-HIEU-QUA.md). Auth/database/storage, legal operator identity, real business content, payment reconciliation and external backups/alerts are not provisioned.
+Các tài liệu đề xuất/đánh giá ở những commit cũ mô tả giai đoạn trước khi mở tự đăng. README này mô tả trạng thái mới nhất. Không có cơ sở giả, đánh giá giả, dữ liệu thanh toán hay địa chỉ liên hệ tự bịa trong nguồn công khai.
