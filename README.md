@@ -8,7 +8,7 @@ A separate, colorful travel and local-business discovery prototype with ocean bl
 
 ## Included
 
-- Vietnamese homepage with full-width scenic hero and destination/business search.
+- Vietnamese homepage with an original AI-illustrated panoramic hero, frosted navigation, colorful specialty themes, an interactive eight-locality schematic and destination/business search.
 - Eight province pages, two commune/ward pages, eight destination pages and eight clearly labeled sample business profiles.
 - Working province/category/text filters, empty states, breadcrumbs and navigation between levels.
 - Business plan presentation at **300,000 VND/year**.

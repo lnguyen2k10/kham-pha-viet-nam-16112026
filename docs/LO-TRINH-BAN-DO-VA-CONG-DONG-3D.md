@@ -1,6 +1,6 @@
 # Bản đồ điểm sáng và cộng đồng 3D — hướng mở rộng
 
-Ý tưởng tham khảo từ cách tạo tham gia đơn giản và cảm giác cộng đồng trong “Thắp đèn đọc sách”. Không sao chép tên, hình ảnh, tài sản 3D, giao diện hay mã của sản phẩm tham khảo. Các tính năng dưới đây chưa được triển khai trong demo.
+Ý tưởng tham khảo từ cách tạo tham gia đơn giản và cảm giác cộng đồng trong “Thắp đèn đọc sách”. Không sao chép tên, hình ảnh, tài sản 3D, giao diện hay mã của sản phẩm tham khảo. Demo hiện có sơ đồ minh họa tám địa phương, chọn điểm để xem hồ sơ mẫu và điểm đến liên quan. Bản đồ doanh nghiệp thật, ranh giới tỉnh/xã và cộng đồng 3D dưới đây chưa được triển khai.
 
 ## Bước 1: Bản đồ doanh nghiệp
 
