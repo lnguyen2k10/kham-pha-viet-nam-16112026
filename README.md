@@ -8,7 +8,7 @@ A separate, colorful travel and local-business discovery prototype with ocean bl
 
 ## Included
 
-- Vietnamese homepage with an original AI-illustrated panoramic hero, frosted navigation, colorful specialty themes, an interactive eight-locality schematic and destination/business search.
+- Vietnamese homepage with an original AI-illustrated panoramic hero, frosted navigation, an interactive eight-locality schematic with labeled major islands and archipelagos and destination/business search.
 - Eight province pages, two commune/ward pages, eight destination pages and eight clearly labeled sample business profiles.
 - Working province/category/text filters, empty states, breadcrumbs and navigation between levels.
 - Business plan presentation at **300,000 VND/year**.
@@ -49,3 +49,7 @@ Images: Wikimedia Commons with author/license links in `/nguon-anh`, plus select
 ## Validation
 
 TypeScript and production build passed. Browser checks passed at 360, 390, 768, 1024 and 1440px: navigation, destination search, province → commune → business, business filters/empty state, registration validation, preview, explicit local draft restore and JSON export. No browser page errors in the tested flows.
+
+## Focused scope
+
+Localities → destinations and local businesses → business introduction draft (300,000 VND/year). No product catalogue, shopping cart, reviews, user favorites, chat, realtime 3D or booking system. Island/archipelago symbols are illustrative, not geographic boundaries or a complete inventory. An authoritative map review is required before public launch.
