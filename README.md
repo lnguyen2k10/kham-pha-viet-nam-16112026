@@ -53,3 +53,9 @@ TypeScript and production build passed. Browser checks passed at 360, 390, 768, 
 ## Focused scope
 
 Localities → destinations and local businesses → business introduction draft (300,000 VND/year). No product catalogue, shopping cart, reviews, user favorites, chat, realtime 3D or booking system. Island/archipelago symbols are illustrative, not geographic boundaries or a complete inventory. An authoritative map review is required before public launch.
+
+## Inner-page review — 16 November 2026
+
+All inner routes share scenic image heroes, Playfair Display headings, readable Be Vietnam Pro body copy, travel colors and responsive content layouts. Locality and business details now include contextual navigation and related destinations/businesses.
+
+[Readiness report (Vietnamese)](docs/BAO-CAO-SAN-SANG.md). Checked all 33 public pages and 54 internal link targets at desktop/tablet/mobile sizes. Ready for design demonstration, not commercial operation.
