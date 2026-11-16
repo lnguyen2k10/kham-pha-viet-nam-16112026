@@ -32,7 +32,7 @@ npm run build
 npm run start
 ```
 
-No external service credentials are required for the demo. Use Node.js 20.9+.
+No external service credentials are required for the demo. Use Node.js 22 or newer.
 
 ## Deploy
 
@@ -59,3 +59,15 @@ Localities → destinations and local businesses → business introduction draft
 All inner routes share scenic image heroes, Playfair Display headings, readable Be Vietnam Pro body copy, travel colors and responsive content layouts. Locality and business details now include contextual navigation and related destinations/businesses.
 
 [Readiness report (Vietnamese)](docs/BAO-CAO-SAN-SANG.md). Checked all 33 public pages and 54 internal link targets at desktop/tablet/mobile sizes. Ready for design demonstration, not commercial operation.
+
+## Business light map and curated pilot
+
+`/ban-do` links regional clusters to business profiles, with industry/region/search filters, truthful record totals, keyboard support and reduced-motion controls. Home uses the same map component and data. No fake check-ins, exact business pins or online counters.
+
+- `NEXT_PUBLIC_CONTENT_MODE=demo` (default): sample profiles only.
+- `NEXT_PUBLIC_CONTENT_MODE=public`: only reviewed records from `content/public-businesses.json`; no fallback to samples. Rebuild required. Public feed is currently empty; live deployment stays in demo mode.
+- `npm run import:businesses -- reviewed.csv`: validated, editorial CSV import into the public content file. Replaces the complete public list, so review the diff before publishing. This is an operator workflow, not a self-service CMS or a database.
+- `npm run test:content` and `npm run check:content`: validation tests and content integrity checks, also run in GitHub Actions.
+- `/api/health`: app response check; explicitly reports that commercial operation, public intake and payments are not ready. Not an external monitoring/alert service.
+
+[Import/publishing runbook](docs/NHAP-VA-XUAT-BAN.md) · [Pilot plan and market validation](docs/THI-DIEM-VA-HIEU-QUA.md). Auth/database/storage, legal operator identity, real business content, payment reconciliation and external backups/alerts are not provisioned.

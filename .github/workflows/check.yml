@@ -1,0 +1,25 @@
+name: Check website
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run test:content
+      - run: npm run check:content
+      - run: npm run check:content
+        env:
+          NEXT_PUBLIC_CONTENT_MODE: public
+      - run: npm run build
+      - run: npm run check

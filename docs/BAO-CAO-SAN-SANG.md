@@ -43,3 +43,27 @@ Build production + TypeScript; từng URL công khai và liên kết nội bộ;
 ## Ảnh giao diện để đối chiếu
 
 [Danh sách điểm đến](previews/destinations-desktop.jpg) · [Trang địa phương](previews/locality-desktop.jpg) · [Hồ sơ doanh nghiệp](previews/business-desktop.jpg) · [Doanh nghiệp trên điện thoại](previews/business-mobile.jpg)
+
+## Cập nhật: bản đồ điểm sáng và luồng biên tập thí điểm
+
+- Có trang `/ban-do`, điểm tổng hợp trong hero, lọc/tìm/chọn khu vực và mở hồ sơ. Số lượng đồng bộ dữ liệu, không phải lượt online hoặc số cơ sở đã trả phí.
+- Luồng nhập CSV đã duyệt, kiểm tra đồng ý/quyền ảnh/liên hệ/địa phương, tách `demo` và `public`. Chế độ public không có hồ sơ thì không chèn mẫu. File thật hiện trống, chưa chuyển website online khỏi demo.
+- Hồ sơ public có nút gọi/Zalo/website theo thông tin đã nhập. Tọa độ cơ sở chính xác chưa được công bố; điểm vẫn là tổng hợp địa phương.
+- Bổ sung GitHub Actions, kiểm tra nội dung, HTTP health endpoint và một số HTTP security headers. Rà soát npm audit production sau bản vá PostCSS: 0 lỗ hổng được npm báo tại thời điểm kiểm tra. Không coi đây là kiểm toán bảo mật toàn hệ thống.
+- Đã thử riêng chế độ public bằng một fixture trong thư mục tách biệt: nhập CSV, build, chỉ có hồ sơ nhập, không lẫn mẫu; nút liên hệ tạo URL đúng; không xuất bản fixture.
+- Hệ quản trị tự phục vụ, database/auth/storage, analytics sự kiện ở máy chủ, thanh toán và giám sát ngoài chưa được kết nối.
+
+Xem [quy trình nhập/xuất bản](NHAP-VA-XUAT-BAN.md) và [thí điểm, kinh tế, kiểm chứng sức hút](THI-DIEM-VA-HIEU-QUA.md).
+
+### Kết quả kiểm tra bổ sung cho bản đồ
+
+- 34 trang, 56 đích liên kết nội bộ: đạt; không ghi nhận lỗi JavaScript trong kiểm tra.
+- Luồng trang chủ → điểm địa phương → bản đồ → hồ sơ: đạt.
+- Lọc ngành/vùng, tìm tên xã không dấu, số lượng và trạng thái không có kết quả: đạt.
+- Điều khiển bàn phím, dừng hiệu ứng và 360/390/768/1024/1440px: đạt.
+- Hoàng Sa, Trường Sa, Phú Quốc, Côn Đảo có chú thích hiển thị; vẫn cần đối chiếu nguồn bản đồ có thẩm quyền trước phát hành chính thức.
+- Bốn nhóm kiểm tra CSV/đồng ý/quyền ảnh/duyệt/URL/liên hệ/địa phương: đạt.
+- Build, TypeScript, kiểm tra nội dung cả demo và public: đạt.
+- Chế độ public được thử riêng bằng fixture: không lẫn hồ sơ mẫu, URL liên hệ đúng, nội dung thử không được xuất bản.
+
+[Ảnh bản đồ](previews/business-light-map.jpg) · [Bản đồ trên điện thoại](previews/business-light-map-mobile.jpg)

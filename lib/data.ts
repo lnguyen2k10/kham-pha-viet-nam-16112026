@@ -1,3 +1,6 @@
+import publicBusinesses from '../content/public-businesses.json';
+export const isDemoMode = process.env.NEXT_PUBLIC_CONTENT_MODE !== 'public';
+export const businessRecordLabel = isDemoMode ? 'hồ sơ mẫu' : 'doanh nghiệp';
 export const regions=['Tất cả','Miền Bắc','Miền Trung','Miền Nam'];
 export const categories=['Tất cả','Ẩm thực','Lưu trú','Đặc sản địa phương','Trải nghiệm','Dịch vụ'];
 export function normalize(text:string){return text.normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/đ/g,'d').replace(/Đ/g,'D').toLowerCase()}
@@ -25,7 +28,7 @@ export const places=[
  {slug:'cho-ben-thanh',name:'Chợ Bến Thành',province:'ho-chi-minh',category:'Văn hóa',image:'/images/ho-chi-minh.jpg',tag:'NHỊP SỐNG ĐÔ THỊ',intro:'Một điểm hẹn để cảm nhận nhịp giao thương và đời sống giữa trung tâm thành phố.',highlights:['Quan sát không gian chợ và nhịp mua bán','Khám phá ẩm thực cùng sự cởi mở','Hỏi rõ giá và thông tin trước khi sử dụng dịch vụ'],body:'Khám phá một khu chợ là cách gần gũi để tìm hiểu đời sống địa phương. Tôn trọng người bán và người mua, hỏi trước khi chụp ảnh và kiểm tra thông tin giờ hoạt động trước chuyến đi.'},
  {slug:'cho-noi-cai-rang',name:'Chợ nổi Cái Răng',province:'can-tho',category:'Văn hóa',image:'/images/can-tho.jpg',tag:'VĂN HÓA MIỀN SÔNG NƯỚC',intro:'Một góc nhìn về sinh hoạt và giao thương gắn với những dòng sông miền Tây.',highlights:['Tìm hiểu đời sống gắn với sông nước','Trao đổi với đơn vị địa phương về lịch trình phù hợp','Ưu tiên an toàn và giữ gìn môi trường'],body:'Trải nghiệm sông nước cần được chuẩn bị theo điều kiện thực tế. Xác nhận tình hình hoạt động, phương tiện, trang bị an toàn và mức phí với đơn vị cung cấp trước khi tham gia; không giả định mọi hình ảnh đều phản ánh lịch hoạt động hiện tại.'},
 ];
-export const businesses=[
+const sampleBusinesses=[
  {slug:'bep-ban-dia-hoi-an',name:'Bếp Bản Địa',province:'da-nang',commune:'hoi-an',category:'Ẩm thực',image:'/images/hoi-an.jpg',tagline:'Một góc hương vị miền Trung',description:'Hồ sơ minh họa cách một cơ sở ẩm thực giới thiệu câu chuyện, món ăn và không gian phục vụ. Tên và nội dung này được tạo để trải nghiệm giao diện, chưa đại diện doanh nghiệp đã đăng ký.',services:['Giới thiệu thực đơn','Hình ảnh không gian','Thông tin đặt bàn'],address:'Khu vực Hội An — địa chỉ minh họa'},
  {slug:'nha-ben-nui-ninh-binh',name:'Nhà Bên Núi',province:'ninh-binh',commune:'hoa-lu',category:'Lưu trú',image:'/images/vietnam-2.jpg',tagline:'Một nơi dừng chân, một câu chuyện mới',description:'Hồ sơ mẫu cho cơ sở lưu trú địa phương. Thông tin phòng, giá và liên hệ chưa được đăng ký; ảnh cảnh quan dùng để minh họa khu vực, không phải ảnh cơ sở.',services:['Giới thiệu loại phòng','Tiện ích lưu trú','Hướng dẫn đến cơ sở'],address:'Ninh Bình — địa chỉ minh họa'},
  {slug:'qua-que-viet',name:'Quà Quê Việt',province:'ninh-binh',commune:'hoa-lu',category:'Đặc sản địa phương',image:'/images/vietnam-5.jpg',tagline:'Mang theo một chút hương vị quê nhà',description:'Hồ sơ mẫu cho đơn vị kinh doanh sản phẩm địa phương. Danh mục “Đặc sản địa phương” là nhóm ngành; hồ sơ này không xác nhận sản phẩm đã được chứng nhận OCOP.',services:['Câu chuyện sản phẩm','Nguồn gốc và quy cách','Thông tin phân phối'],address:'Ninh Bình — địa chỉ minh họa'},
@@ -35,6 +38,11 @@ export const businesses=[
  {slug:'huong-pho-sai-gon',name:'Hương Phố Sài Gòn',province:'ho-chi-minh',commune:'',category:'Ẩm thực',image:'/images/ho-chi-minh.jpg',tagline:'Khám phá nhịp sống qua những hương vị',description:'Hồ sơ mẫu cho cơ sở ẩm thực địa phương. Tên thương hiệu và nội dung chỉ minh họa giao diện; ảnh là cảnh quan, không phải ảnh cơ sở. Chưa có thông tin liên hệ hoặc dịch vụ đặt bàn thực tế.',services:['Câu chuyện món ăn','Thông tin thực đơn','Kênh liên hệ do chủ cơ sở cung cấp'],address:'TP. Hồ Chí Minh — địa chỉ minh họa'},
  {slug:'hen-ben-song',name:'Hẹn Bên Sông',province:'can-tho',commune:'',category:'Trải nghiệm',image:'/images/can-tho.jpg',tagline:'Một kết nối với đời sống miền sông nước',description:'Hồ sơ minh họa cho đơn vị giới thiệu trải nghiệm địa phương. Chưa xác minh doanh nghiệp, chưa có lịch trình thương mại và không nhận đặt dịch vụ trong bản demo.',services:['Giới thiệu trải nghiệm','Thông tin khu vực phục vụ','Hướng dẫn chuẩn bị'],address:'Cần Thơ — địa chỉ minh họa'},
 ];
-export type Province=typeof provinces[number];export type Business=typeof businesses[number];export type Place=typeof places[number];
+export type Business = typeof sampleBusinesses[number] & { isSample: boolean; phone: string | null; zalo: string | null; website: string | null; imageKind: 'area' | 'business' };
+export const businesses: Business[] = isDemoMode
+  ? sampleBusinesses.map(b => ({ ...b, isSample: true, phone: null, zalo: null, website: null, imageKind: 'area' as const }))
+  : publicBusinesses as Business[];
+
+export type Province=typeof provinces[number];export type Place=typeof places[number];
 export const provinceName=(slug:string)=>provinces.find(p=>p.slug===slug)?.name||slug;
 export const provinceBusinesses=(slug:string)=>businesses.filter(b=>b.province===slug);
