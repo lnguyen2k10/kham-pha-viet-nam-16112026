@@ -1,0 +1,1 @@
+import Link from'next/link';export default function NotFound(){return <main id="main" className="section not-found"><span className="eyebrow">HÀNH TRÌNH CHƯA CÓ ĐIỂM DỪNG NÀY</span><h1>Mình chọn một lối khác nhé.</h1><p>Trang bạn tìm chưa có nội dung hoặc đường dẫn chưa đúng.</p><Link className="button" href="/">Trở về trang chủ ↗</Link></main>}
