@@ -13,12 +13,12 @@ export default function DiscoveryHero({businessRecords=businesses}:{businessReco
   const counts=aggregateMapBusinesses(businessRecords);
   const [selected, setSelected] = useState(businessRecords[0]?.province||'ha-noi');
   const province = provinces.find(p => p.slug === selected)!;
-  return <section className="dream-hero focused-hero" aria-label="Khám phá tinh hoa mọi miền Việt Nam">
-    <div className="dream-scene"><Image src="/images/vietnam-1.jpg" alt="Vịnh Hạ Long, Quảng Ninh" fill priority sizes="100vw" quality={85} /></div>
+  return <section className="dream-hero focused-hero illustrated-hero" aria-label="Khám phá tinh hoa mọi miền Việt Nam">
+    <div className="dream-scene"><Image src="/images/discovery-world.png" alt="Minh họa nghệ thuật Việt Nam với cảnh quan, di sản và các biểu tượng văn hóa từ Bắc vào Nam" fill priority sizes="100vw" quality={85} /></div>
     <div className="dream-atmosphere" />
     <div className="dream-copy">
       <span className="dream-intro">KHÁM PHÁ VIỆT NAM</span>
-      <h1><span>Đi để thấy.</span><em>Ở lại để yêu.</em></h1>
+      <h1><span>Tinh hoa</span><span>mọi miền</span><em>Việt Nam.</em></h1>
       <p>Tìm một miền đất để khám phá.<br />Gặp những doanh nghiệp làm nên bản sắc địa phương.</p>
       <Link className="dream-start" href="/dia-phuong"><span><Navigation size={18} /></span>Khám phá 34 tỉnh thành <ArrowRight size={22} /></Link>
       <Link className="hero-business-link" href="/ban-do">Mở bản đồ doanh nghiệp <ArrowRight size={17} /></Link>
@@ -33,6 +33,6 @@ export default function DiscoveryHero({businessRecords=businesses}:{businessReco
       <article className="map-place-preview" aria-live="polite"><img src={province.image} alt={`Cảnh quan minh họa ${province.name}`} /><div><h3>{province.name}</h3><p>{counts[selected]} {businessRecordLabel} · Điểm tổng hợp khu vực</p><Link href={`/ban-do?tinh=${province.slug}`}>Xem các điểm sáng <ArrowRight size={16} /></Link></div></article>
       <p className="map-disclaimer"><Info size={16} /><span>Số trong điểm là số doanh nghiệp tại địa phương. Sơ đồ không dùng để xác định vị trí cơ sở hoặc ranh giới.</span></p>
     </aside>
-    <span className="dream-art-note">Vịnh Hạ Long · Quảng Ninh</span>
+    <span className="dream-art-note">Minh họa nghệ thuật Việt Nam</span>
   </section>;
 }

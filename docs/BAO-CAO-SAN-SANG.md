@@ -27,3 +27,7 @@ Hiện mở dùng miễn phí, chưa tích hợp thu tiền. Khi phát triển t
 - Thay 13 ảnh đại diện bằng ảnh phong cảnh/di sản thật đã xem và kiểm tra nguồn, tác giả, giấy phép. Ảnh mới có chú thích địa điểm và ghi công trên trang Nguồn ảnh.
 - Hệ thiết kế dùng font Manrope biến thiên có tiếng Việt, lưu tại dự án kèm giấy phép OFL, không phụ thuộc tải Google Fonts. Nền trắng/ngà, xanh lá và màu đất ấm; giảm gradient, thống nhất tiêu đề, nút, thẻ ảnh, khoảng cách và trang con.
 - Tham khảo nhịp ảnh và cấu trúc của Vietnam.travel và Visit Norway; không sao chép nội dung, thương hiệu hoặc mã của các trang tham khảo.
+
+### Nhận diện hero trang chủ
+
+Theo xác nhận của chủ dự án, ảnh hero là tranh Việt Nam đã duyệt (`discovery-world.png`), không được thay bằng ảnh đại diện của một địa phương khi chỉnh font/màu. Khôi phục tranh gốc, làm sáng lớp phủ và dùng tiêu đề Tinh hoa mọi miền Việt Nam. Nguồn ảnh phân biệt rõ tranh nhận diện với ảnh chụp địa phương thật. Bản đồ tương tác bên cạnh tiếp tục giữ Hoàng Sa, Trường Sa và các đảo chính.
